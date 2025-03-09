@@ -11,7 +11,10 @@ module.exports = {
         }
     },
     "电影Nav": {
-        "导航": ""
+        "导航": {
+            "link": "https://github.com/justalong/navjson/blob/main/docs/res.md",
+            "desc": "直接用导航吧"
+        }
     },
     "电影": {
         "布谷TV": {
