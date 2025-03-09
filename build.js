@@ -4,10 +4,6 @@ const json2md = require("json2md");
 const allData = require('./src/index.js');
 const { rimrafSync } = require('rimraf');
 
-if (allData['电影Nav']) {
-    delete allData['电影Nav']
-}
-
 const jsonMkDownList = [];
 const typekeys = Object.keys(allData);
 
@@ -28,7 +24,7 @@ const funUl = (item) => {
     return [];
 }
 
-typekeys.forEach(item => {
+typekeys.filter(i => i !== '电影Nav').forEach(item => {
     const subItem = allData[item];
     const subKyeys = Object.keys(subItem);
     jsonMkDownList.push({
