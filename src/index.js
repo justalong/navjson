@@ -10,6 +10,9 @@ module.exports = {
             "link": "https://pan.baidu.com/s/1Z7kcxCzpaXGmh2hzK4s7lQ?pwd=cqr6"
         }
     },
+    "电影Nav": {
+        "导航": ""
+    },
     "电影": {
         "布谷TV": {
             "link": "https://www.bugutv.vip/",
