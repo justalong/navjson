@@ -24,7 +24,7 @@ const funUl = (item) => {
     return [];
 }
 
-typekeys.filter(i => i !== '电影Nav').forEach(item => {
+typekeys.forEach(item => {
     const subItem = allData[item];
     const subKyeys = Object.keys(subItem);
     jsonMkDownList.push({
@@ -41,4 +41,5 @@ typekeys.filter(i => i !== '电影Nav').forEach(item => {
 rimrafSync('./docs');
 
 createFile('./docs/res.md', json2md(jsonMkDownList));
+delete allData['电影']
 createFile('./dist/index.json5', JSON.stringify(allData));

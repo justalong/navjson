@@ -10,12 +10,6 @@ module.exports = {
             "link": "https://pan.baidu.com/s/1Z7kcxCzpaXGmh2hzK4s7lQ?pwd=cqr6"
         }
     },
-    "电影Nav": {
-        "导航": {
-            "link": "https://github.com/justalong/navjson/blob/main/docs/res.md",
-            "desc": "直接用导航吧"
-        }
-    },
     "电影": {
         "布谷TV": {
             "link": "https://www.bugutv.vip/",
@@ -168,5 +162,11 @@ module.exports = {
             "desc": [""]
         }
         
-    }
+    },
+    "总导航": {
+        "导航": {
+            "link": "https://github.com/justalong/navjson/blob/main/docs/res.md",
+            "desc": [""]
+        }
+    },
 }
