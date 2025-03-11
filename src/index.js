@@ -8,6 +8,9 @@ module.exports = {
         },
         "跳过广告": {
             "link": "https://pan.baidu.com/s/1Z7kcxCzpaXGmh2hzK4s7lQ?pwd=cqr6"
+        },
+        "跳过广告": {
+            "link": "https://pan.baidu.com/s/1E0nB5K6oFjoOPCH-kPv5_w?pwd=16t3"
         }
     },
     "电影": {
