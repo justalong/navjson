@@ -1,5 +1,5 @@
 ## 资源维护
-[资源](https://github.com/liuyongshun/datajson/blob/main/docs/res.md)
+[资源](https://github.com/justalong/navjson/blob/main/docs/res.md)
 
 ## 感谢扫描关注
 

@@ -1,6 +1,7 @@
 ### 更新时间
 
 
+ - v1: 2025/3/13
      - 更新内容电子书网站国外版本
     
 
@@ -13,7 +14,10 @@
  - 录屏截屏: https://pan.baidu.com/s/1vnLSEKS4zLunRhkHekCV3Q?pwd=e3fk
 
 
- - 跳过广告: https://pan.baidu.com/s/1E0nB5K6oFjoOPCH-kPv5_w?pwd=16t3
+ - 跳过广告: https://pan.baidu.com/s/1Z7kcxCzpaXGmh2hzK4s7lQ?pwd=cqr6
+
+
+ - 压缩包: https://pan.baidu.com/s/1E0nB5K6oFjoOPCH-kPv5_w?pwd=16t3
 
 ### 电影
 

@@ -1,6 +1,7 @@
 module.exports = {
     "更新时间": {
-        "2025/3/13": {
+        "v1": {
+            "link":"2025/3/13",
             "desc": ["更新内容电子书网站国外版本"]
         }
     },
@@ -14,7 +15,7 @@ module.exports = {
         "跳过广告": {
             "link": "https://pan.baidu.com/s/1Z7kcxCzpaXGmh2hzK4s7lQ?pwd=cqr6"
         },
-        "跳过广告": {
+        "压缩包": {
             "link": "https://pan.baidu.com/s/1E0nB5K6oFjoOPCH-kPv5_w?pwd=16t3"
         }
     },
