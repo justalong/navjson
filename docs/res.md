@@ -1,3 +1,9 @@
+### 更新时间
+
+
+     - 更新内容电子书网站国外版本
+    
+
 ### 网盘资源
 
 
@@ -7,7 +13,7 @@
  - 录屏截屏: https://pan.baidu.com/s/1vnLSEKS4zLunRhkHekCV3Q?pwd=e3fk
 
 
- - 跳过广告: https://pan.baidu.com/s/1Z7kcxCzpaXGmh2hzK4s7lQ?pwd=cqr6
+ - 跳过广告: https://pan.baidu.com/s/1E0nB5K6oFjoOPCH-kPv5_w?pwd=16t3
 
 ### 电影
 
@@ -59,10 +65,12 @@
 
 
  - 4K世界: https://www.4ksj.com/
+     - 有付费，有免费
     
 
 
  - 4K FILM: http://4kfilm.cn/portal.php
+     - 免费无需登录
     
 
 ### 电子书
@@ -130,6 +138,53 @@
 
  - 中国高校课件下载网站: http://download.cucdc.com/
      - 付费，但是专业
+    
+
+
+ - Z-library: https://github.com/runningcheese/Awesome-Zlibrary?tab=readme-ov-file
+     - 超大，超全，但经常被封
+     - 需要学会使用
+    
+
+
+ - Manybooks: https://manybooks.net/
+     - 登录后，免费下载
+    
+
+
+ - PDFDrive: https://www.pdfdrive.com/
+     - 免费无需登录
+    
+
+
+ - PDFBooksWorld: https://www.pdfbooksworld.com/
+     - 能用但是一般
+     - 缺少中文文献
+    
+
+
+ - OpenStax: https://www.ituring.com.cn/book
+     - 免费，侧重国外教材
+    
+
+
+ - 502搜书: https://502book.com/
+     - 内容较少，适合小说
+    
+
+
+ - 免费搜书: https://mianfei22.com/
+     - 内容较少，适合小说
+    
+
+
+ - 熊猫搜书: https://xmsoushu.com/#/
+     - 内容较少，适合小说
+    
+
+
+ - 书伴: https://bookfere.com/
+     - 里面有电子书导航，还不错
     
 
 ### 音乐

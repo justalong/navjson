@@ -32,7 +32,7 @@ typekeys.forEach(item => {
     });
     subKyeys.map(ssItem => {
         jsonMkDownList.push({
-            ul: [ssItem + ": " + subItem[ssItem].link].concat(funUl(subItem[ssItem]))
+            ul: subItem[ssItem].link ? [ssItem + ": " + subItem[ssItem].link].concat(funUl(subItem[ssItem])) : funUl(subItem[ssItem])
         })
     })
 });

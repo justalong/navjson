@@ -1,4 +1,9 @@
 module.exports = {
+    "更新时间": {
+        "2025/3/13": {
+            "desc": ["更新内容电子书网站国外版本"]
+        }
+    },
     "网盘资源": {
         "音乐": {
             "link": "https://pan.baidu.com/s/1Y8HPkLOzpSQXvVjGdQi2pA?pwd=iy8q"
@@ -44,11 +49,11 @@ module.exports = {
         },
         "4K世界": {
             "link": "https://www.4ksj.com/",
-            "desc": [""]
+            "desc": ["有付费，有免费"]
         },
         "4K FILM": {
             "link": "http://4kfilm.cn/portal.php",
-            "desc": [""]
+            "desc": ["免费无需登录"]
         }
     },
     "电子书": {
@@ -107,6 +112,42 @@ module.exports = {
         "图灵社区": {
             "link": "https://www.ituring.com.cn/book",
             "desc": ["有付费，但是专业"],
+        },
+        "Z-library": {
+            "link": "https://github.com/runningcheese/Awesome-Zlibrary?tab=readme-ov-file",
+            "desc": ["超大，超全，但经常被封", "需要学会使用"],
+        },
+        "Manybooks": {
+            "link": "https://manybooks.net/",
+            "desc": ["登录后，免费下载"],
+        },
+        "PDFDrive": {
+            "link": "https://www.pdfdrive.com/",
+            "desc": ["免费无需登录"],
+        },
+        "PDFBooksWorld": {
+            "link": "https://www.pdfbooksworld.com/",
+            "desc": ["能用但是一般", "缺少中文文献"],
+        },
+        "OpenStax": {
+            "link": "https://www.ituring.com.cn/book",
+            "desc": ["免费，侧重国外教材"],
+        },
+        "502搜书": {
+            "link": "https://502book.com/",
+            "desc": ["内容较少，适合小说"],
+        },
+        "免费搜书": {
+            "link": "https://mianfei22.com/",
+            "desc": ["内容较少，适合小说"],
+        },
+        "熊猫搜书": {
+            "link": "https://xmsoushu.com/#/",
+            "desc": ["内容较少，适合小说"],
+        },
+        "书伴": {
+            "link": "https://bookfere.com/",
+            "desc": ["里面有电子书导航，还不错"],
         }
     },
     "音乐": {
