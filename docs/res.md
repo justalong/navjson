@@ -251,6 +251,198 @@
  - 方格音乐: http://fonger.top/
     
 
+### 壁纸网站
+
+
+ - wallhere: https://wallhere.com/
+     - 多尺寸下载
+    
+
+
+ - avogadr: https://avogadr.io/
+     - 自定义化学式壁纸
+    
+
+
+ - gratisography: https://gratisography.com/
+     - 脑洞设计
+    
+
+
+ - digitalblasphemy: https://digitalblasphemy.com
+     - 高清壁纸
+    
+
+
+ - desktopwallpapers: http://desktopwallpapers.org.ua/
+     - 高清壁纸
+    
+
+
+ - www.wallpaperfusion: https://www.wallpaperfusion.com/
+     - 4k高清壁纸
+    
+
+
+ - wallpapersite: https://wallpapersite.com/
+     - 多尺寸下载
+    
+
+
+ - www.nasa: https://www.nasa.gov/multimedia/imagegallery/iotd.html
+     - NASA航天
+    
+
+
+ - hdqwalls: https://hdqwalls.com/
+     - 分类各种壁纸
+    
+
+
+ - www.eso: https://www.eso.org/public/unitedkingdom/images/
+     - 天文宇宙
+    
+
+
+ - vlad.stu: https://vlad.studio/zh/wallpapers/
+     - 需注册才能下载
+    
+
+
+ - justinmaller: http://justinmaller.com/
+     - 插画
+    
+
+
+ - www.dpm.org: https://www.dpm.org.cn/lights/royal.html
+     - 故宫壁纸
+    
+
+
+ - www.gamewallpapers: https://www.gamewallpapers.com/
+     - 游戏CG
+    
+
+
+ - www.cgwallpapers: https://www.cgwallpapers.com/
+     - CG壁纸
+    
+
+
+ - simpledesktops: http://simpledesktops.com/browse/
+     - 极简主义
+    
+
+
+ - 10wallpaper.com: https://10wallpaper.com/cn/
+     - 多分类壁纸
+    
+
+
+ - wallroom: https://wallroom.io/
+     - 插画风／2K／4K／5K
+    
+
+
+ - anime-pictures: https://anime-pictures.net/
+     - 动漫图片和壁纸
+    
+
+
+ - wall.alphacoders: https://wall.alphacoders.com/
+     - 多分类壁纸
+    
+
+
+ - zhutix: https://zhutix.com/wallpaper/
+     - 致美化
+    
+
+
+ - wallhaven: https://wallhaven.cc/
+     - 多资源壁纸
+    
+
+
+ - desk.3gbizhi: https://desk.3gbizhi.com/
+     - 3G壁纸
+    
+
+
+ - pic.netbian: http://pic.netbian.com/
+     - 收费，免费有限
+    
+
+
+ - bizhi.vercel: https://bizhi.vercel.app/
+     - 电脑壁纸
+    
+
+
+ - wallls: http://wallls.com/
+     - 壁纸网站
+    
+
+
+ - desk.zol.com: http://desk.zol.com.cn/
+     - 桌面壁纸
+    
+
+
+ - 站酷壁纸: https://www.zcool.com.cn/
+     - 站酷壁纸
+    
+
+
+ - graffitiwallpaper: https://graffitiwallpaper.com/
+     - 壁纸
+    
+
+
+ - www.pexels: https://www.pexels.com/zh-cn/
+     - Pexels桌面壁纸
+    
+
+
+ - wallpaperfx: https://wallpaperfx.com/
+     - 多分类壁纸
+    
+
+
+ - librestock: https://librestock.com/
+     - 多分类壁纸
+    
+
+
+ - www.goodfon: https://www.goodfon.com/
+     - 多分类壁纸，5k
+    
+
+
+ - www.socwall: https://www.socwall.com/
+     - 风景壁纸
+    
+
+
+ - bing.ee123: https://bing.ee123.net/
+     - 必应壁纸
+    
+
+
+ - www.kwiatki: https://www.kwiatki.org/
+     - 鲜花壁纸
+    
+
+
+ - wallpaperscraft: https://wallpaperscraft.com/
+     - 多分类壁纸
+    
+
+
+ - bz.zzzmh.cn: https://bz.zzzmh.cn/index
+     - 极简壁纸
+    
+
 ### 总导航
 
 
