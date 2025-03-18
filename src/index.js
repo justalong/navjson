@@ -1,3 +1,4 @@
+const wall = require('./wall.js');
 module.exports = {
     "更新时间": {
         "v1": {
@@ -208,6 +209,7 @@ module.exports = {
         }
         
     },
+    ...wall,
     "总导航": {
         "导航": {
             "link": "https://github.com/justalong/navjson/blob/main/docs/res.md",
