@@ -1,6 +1,6 @@
 {
   "name": "nav-json",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "datajson",
   "main": "dist/index.json5",
   "scripts": {
