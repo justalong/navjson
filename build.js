@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const json2md = require("json2md");
 const allData = require('./src/index.js');
+const promptData = require('./src/miniprompt/prompt.js');
 const { rimrafSync } = require('rimraf');
 
 const jsonMkDownList = [];
@@ -43,3 +44,4 @@ rimrafSync('./docs');
 createFile('./docs/res.md', json2md(jsonMkDownList));
 // delete allData['电影']
 createFile('./dist/index.json5', JSON.stringify(allData));
+createFile('./dist/minip.json5', JSON.stringify(promptData));
