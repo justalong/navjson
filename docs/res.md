@@ -10,6 +10,11 @@
      - 更新壁纸网站
     
 
+
+ - v3: 2025/3/24
+     - 更新ppt网站
+    
+
 ### 网盘资源
 
 
@@ -446,6 +451,99 @@
 
  - bz.zzzmh.cn: https://bz.zzzmh.cn/index
      - 极简壁纸
+    
+
+### 免费PPT
+
+
+ - github模板: https://github.com/hornhuang/ppt_themes
+     - 一小部分ppt，直接下载
+    
+
+
+ - github模板2: https://github.com/atomiechen/THU-PPT-Theme
+     - 清华主题模板
+    
+
+
+ - 四川大学生PPT: https://github.com/NING0121/SCU_PPT_template
+     - 应该是某个学生整理的一部分
+    
+
+
+ - 一位程序员整理: https://pan.baidu.com/share/init?surl=6BjmWskAvS5sUFiJxrEgaA&pwd=nntm
+     - 此链接为该程序的整理，我只是搬运一下，感谢分享作者
+     - 如果失效了，可以联系我，我转存了一份，公众号，智多星手册
+    
+
+
+ - 第一PPT: https://www.1ppt.com/
+     - 资源丰富，内容免费
+     - 无需登录，有教师课件
+     - 月活跃用户 51W
+    
+
+
+ - 优品PPT: https://www.ypppt.com/
+     - 多数PPT也是可以免费下载
+     - 页面也没有太多广告
+     - 月活跃用户 22W
+    
+
+
+ - 51PPT: https://www.51pptmoban.com/
+     - 网站广告多，下载有点坑，注意点击位置
+     - 网站也是有很多免费的
+     - 月活跃用户 9W
+    
+
+
+ - 站长ppt: https://sc.chinaz.com/ppt/
+     - 有免费资源，也有付费资源
+     - 网站也比较干净，没什么广告
+     - 月活跃用户 35W，这个包含其他工具使用人员
+    
+
+
+ - iSlide: https://www.islide.cc/
+     - 有限免的模板内容，不开会员也可下载
+     - 页面干净整洁，美观没广告
+     - 月活跃用户 27W
+    
+
+
+ - PPT超级市场: https://www.pptsupermarket.com/
+     - 这里有不少免费内容，也有付费内容
+     - 免费的下载不需要登录
+     - 页面网站干净整齐，没有广告
+     - 月活跃用户 27W
+    
+
+
+ - 管理资源吧: https://www.glzy8.com/list/1/
+     - 网站非常良心，整理ppt质量也不错
+     - 里面精品和普通分类，精品质量确实也不错
+     - 月活跃用户 1.5W
+    
+
+
+ - PPTFans: https://www.pptfans.cn/pptmuban
+     - 免费和付费共存，如果只要模板还是能下载的
+     - 网站整体没有广告，界面做的也还可以
+     - 月活跃用户 2W
+    
+
+
+ - 592职业圈: https://www.job592.com/ppt/
+     - 下载需要评论，才能下载
+     - 网站每天能下载20个，有限制
+     - 月活跃用户 24W
+    
+
+
+ - HiPPTer: https://www.hippter.com/
+     - 一个导航网站，导航各个PPT内容
+     - 月活跃用户 3W
     
 
 ### 总导航

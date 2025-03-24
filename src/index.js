@@ -1,4 +1,5 @@
 const wall = require('./wall.js');
+const ppt = require('./ppt.js');
 module.exports = {
     "更新时间": {
         "v1": {
@@ -8,6 +9,10 @@ module.exports = {
         "v2": {
             "link":"2025/3/18",
             "desc": ["更新壁纸网站"]
+        },
+        "v3": {
+            "link":"2025/3/24",
+            "desc": ["更新ppt网站"]
         }
     },
     "网盘资源": {
@@ -214,6 +219,7 @@ module.exports = {
         
     },
     ...wall,
+    ...ppt,
     "总导航": {
         "导航": {
             "link": "https://github.com/justalong/navjson/blob/main/docs/res.md",
