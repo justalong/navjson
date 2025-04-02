@@ -15,6 +15,16 @@
      - 更新ppt网站
     
 
+
+ - v4: 2025/4/01
+     - 更新开源资讯网站
+    
+
+
+ - v5: 2025/4/02
+     - 更新工具集合
+    
+
 ### 网盘资源
 
 
@@ -544,6 +554,38 @@
  - HiPPTer: https://www.hippter.com/
      - 一个导航网站，导航各个PPT内容
      - 月活跃用户 3W
+    
+
+### 重要资讯
+
+
+ - hellogithub: https://hellogithub.com/
+     - github开源资讯
+    
+
+
+ - oschina: https://www.oschina.net
+     - 开源中国
+    
+
+
+ - Hacker News: https://news.ycombinator.com
+     - 技术新闻聚合平台，常有 GitHub 热门项目被推荐
+    
+
+
+ - Product Hunt: https://www.producthunt.com
+     - 新产品发布平台，许多开源工具和库会在此推广
+    
+
+
+ - Dev.to: https://dev.to
+     - 开发者社区，大量开源工具的使用教程和推荐
+    
+
+
+ - GitHub Topics&explore: https://github.blog
+     - github博客
     
 
 ### 总导航
