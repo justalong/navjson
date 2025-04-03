@@ -556,6 +556,124 @@
      - 月活跃用户 3W
     
 
+### 压缩解压
+
+
+ - 7zip: https://www.7-zip.org/
+     - 小巧强大无广告
+    
+
+
+ - PeaZip: https://peazip.github.io/
+     - 支持多平台，Windows和Linux和Mac
+    
+
+
+ - Keka: https://www.keka.io/
+     - 适用macOS的开源解压工具
+    
+
+### 录屏/截屏
+
+
+ - GifCam: https://blog.bahraniapps.com/gifcam/
+     - 小巧，方便，适合低版本win系统
+    
+
+
+ - ScreenToGIF: https://www.screentogif.com/
+     - 免费/便携式/稳定性更强，适合频繁使用
+    
+
+
+ - ShareX: https://getsharex.com/
+     - 免费/便携式/功能丰富，适合开发
+    
+
+
+ - LICEcap: https://www.cockos.com/licecap/
+     - Windows, macOS，免费/小巧
+    
+
+
+ - Kap: https://getkap.co/
+     - 免费/安装包小，Mac
+    
+
+
+ - Snipaste: https://www.snipaste.com/
+     - 免费，贴图，可以调节透明度
+    
+
+### 工具集合
+
+
+ - utools: https://www.u-tools.cn/
+     - 免费，且集成多功能工具，超强
+     - 工具可卸载，在安装，规避非会员10个限制
+    
+
+### AI图片
+
+
+ - PDF4QT: https://jakubmelka.github.io
+     - 支持pdf预览和编辑能力
+     - 支持pdf文件diff文本内容
+     - 完全免费，但跟新慢
+    
+
+
+ - PDFArranger: https://github.com/pdfarranger/pdfarranger
+     - 合并、分割、删除和重新排序PDF
+     - 完全免费，但跟新慢
+    
+
+
+ - PDFCreator: https://www.pdfforge.org/pdfcreator
+     - https://www.pdfforge.org/online/en
+     - 免费收费并存，支持在线能力
+    
+
+
+ - PDF Guru: https://github.com/kevin2li/PDF-Guru
+     - 完全开源，个人免费使用
+    
+
+
+ - PDF-XChange Editor: https://www.pdf-xchange.com
+     - 功能强大、易于使用
+     - 上百个功能点介绍，免费超过2/3
+    
+
+
+ - Scribus: https://www.scribus.net
+     - 完全免费的、开源的PDF编辑器
+    
+
+
+ - Stirling PDF: https://github.com/Frooodle/Stirling-PDF
+     - 超全功能合集
+     - 基本完全免费，极少部分能力付费
+    
+
+
+ - XpdfReader: https://www.xpdfreader.com
+     - 支持表单填充、图像处理、注释等功能
+     - 完全免费
+    
+
+
+ - pdfgear: https://www.pdfgear.com/zh/
+     - 支持在线功能
+     - 完全免费
+    
+
+
+ - pdf24: https://tools.pdf24.org/zh/
+     - 在线pdf功能
+     - 完全免费
+    
+
 ### 重要资讯
 
 
