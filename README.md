@@ -1,5 +1,7 @@
 ## 资源维护
-[资源](https://github.com/justalong/navjson/blob/main/docs/res.md)
+[各类资源统一导航](https://github.com/justalong/navjson/blob/main/docs/res.md)
+
+Github Page静态网站：主要维护教程：https://justalong.github.io/
 
 ## 感谢扫描关注
 
