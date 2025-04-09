@@ -613,7 +613,74 @@
      - 工具可卸载，在安装，规避非会员10个限制
     
 
-### AI图片
+### 微信备份
+
+
+ - WeChatMsg: https://github.com/LC044/WeChatMsg
+     - https://memotrace.cn/
+     - 导出成 HTML、Word、Excel、AI TXT和 txt 
+     - 只支持windows端
+    
+
+
+ - wx-dump-4j: https://github.com/xuchengsheng/wx-dump-4j
+     - 查看历史朋友圈
+     - 记录导出
+     - 找回已删除好友
+    
+
+
+ - WechatExporter: https://github.com/BlueMatthew/WechatExporter
+     - 支持window和Mac系统
+     - 导出支持Text、HTML、PDF三种格式
+    
+
+
+ - wechatDataBackup: https://www.u-tools.cn/
+     - 功能齐全，支持很多，多开，导出备份
+    
+
+### 摸鱼划水
+
+
+ - genact: https://github.com/svenstaro/genact
+     - Windows、Linux、macOS 操作系统
+     - 适合程序员，模拟终端输出
+    
+
+
+ - Loaf 摸鱼: https://apps.microsoft.com/detail/9ndj3q12nrrm?hl=zh-CN&gl=CN
+     - 主要是模拟电脑更新
+    
+
+
+ - updatefaker/fakeupdate: https://updatefaker.com/
+     - https://fakeupdate.net
+     - 模拟winXP/98/10/11，以及Mac OS系统更新
+     - 按F11进入浏览器的全屏模式，esc不退出
+    
+
+
+ - 抓鱼呀: https://www.zhuayuya.com/
+     - 很多划水可玩的东西，比如聊天/弹幕/毒鸡汤
+    
+
+
+ - AnLink: https://cn.anlinksoft.com/
+     - 能用电脑就能用手机，用电脑刷手机
+    
+
+
+ - ratel: https://github.com/ratel-online/server?tab=readme-ov-file
+     - 模拟成学习网站，这个网站是程序员常用的
+    
+
+
+ - thief: https://thief.im/
+     - 一款功能强大的摸鱼软件，但是付费
+    
+
+### PDF工具
 
 
  - PDF4QT: https://jakubmelka.github.io
@@ -672,6 +739,11 @@
  - pdf24: https://tools.pdf24.org/zh/
      - 在线pdf功能
      - 完全免费
+    
+
+
+ - PDFMathTranslate: https://pdf2zh.com/
+     - pdf翻译，科研必备
     
 
 ### 重要资讯

@@ -3,6 +3,7 @@ const path = require('path');
 const json2md = require("json2md");
 const allData = require('./src/index.js');
 const promptData = require('./src/miniprompt/prompt.js');
+const eatFood = require('./src/miniprompt/eat.js');
 const { rimrafSync } = require('rimraf');
 
 const jsonMkDownList = [];
@@ -42,6 +43,8 @@ typekeys.forEach(item => {
 rimrafSync('./docs');
 
 createFile('./docs/res.md', json2md(jsonMkDownList));
-// delete allData['电影']
+
+// 云静态数据
 createFile('./dist/index.json5', JSON.stringify(allData));
 createFile('./dist/minip.json5', JSON.stringify(promptData));
+createFile('./dist/eatfood.json5', JSON.stringify(eatFood));

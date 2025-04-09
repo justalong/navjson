@@ -1,5 +1,5 @@
 module.exports = {
-    "AI图片": {
+    "PDF工具": {
         "PDF4QT": {
             "link": "https://jakubmelka.github.io",
             "desc": [
@@ -83,6 +83,11 @@ module.exports = {
                 "完全免费"
             ]
         },
-        
+        "PDFMathTranslate": {
+            "link": "https://pdf2zh.com/",
+            "desc": [
+                "pdf翻译，科研必备"
+            ]
+        }
     }
 }
