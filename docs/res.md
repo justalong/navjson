@@ -613,6 +613,21 @@
      - 工具可卸载，在安装，规避非会员10个限制
     
 
+
+ - everything: https://www.voidtools.com/zh-cn/
+     - windows搜索工具，搜索快捷键/文件/启动项
+    
+
+
+ - listary: https://www.listary.com/
+     - windows搜索工具，搜索快捷键/文件/启动项
+    
+
+
+ - wox启动器: http://www.wox.one/
+     - windows启动器，可以快速启动软件
+    
+
 ### 微信备份
 
 
@@ -744,6 +759,101 @@
 
  - PDFMathTranslate: https://pdf2zh.com/
      - pdf翻译，科研必备
+    
+
+### 趣学
+
+
+ - 句乐部: https://julebu.co/
+     - https://github.com/cuixueshe/earthworm
+     - 奖励机制和积分排名，让学习游戏化，有趣且高效
+    
+
+
+ - habitica: https://habitica.com/
+     - https://github.com/HabitRPG/habitica
+     - 完成一个待办，会获得相应的经验和金币
+    
+
+
+ - earth 地理学习: http://earth.nullschool.net/
+     - https://github.com/cambecc/earth
+     - 适合高中地理学习，和高中教师使用
+    
+
+
+ - WantWords: https://wantwords.net/
+     - https://github.com/thunlp/WantWords
+     - 清华大学 NLP 实验室开源，可以根据你的意思返回相关词汇
+    
+
+
+ - isowords: https://github.com/pointfreeco/isowords
+     - iOS游戏型学习英语的软件
+     - 通过字母组合消除单词
+    
+
+
+ - qwerty-learner: https://qwerty.kaiyi.cool/
+     - https://github.com/RealKai42/qwerty-learner
+     - 打字记单词软件，让你学语言充满乐趣
+    
+
+
+ - 摸鱼背单词: https://github.com/Uahh/ToastFish
+     - 上班、上课等恶劣环境下安全隐蔽地背单词
+    
+
+### 磁盘清理
+
+
+ - Czkawka/Krokiet: https://github.com/qarmin/czkawka
+     - https://github.com/qarmin/czkawka/releases/tag/9.0.0
+     - 支持Mac/Linux/Windows多个平台
+     - 快速且免费，支持中文
+     - windows使用gui46，gui代表图形界面
+    
+
+
+ - Pearcleaner: https://github.com/alienator88/Pearcleaner
+     - 免费开源的 Mac 清理工具
+    
+
+
+ - 腾讯柠檬清理: https://github.com/Tencent/lemon-cleaner
+     - https://lemon.qq.com/
+     - Mac清理软件，符合国内用户习惯，
+    
+
+
+ - BleachBit: https://www.bleachbit.org/
+     - https://github.com/bleachbit/bleachbit
+     - 它专为 Linux 和 Windows 设计
+    
+
+
+ - glarysoft: https://www.glarysoft.com/
+     - 官方说排名第一的免费、一体化的脑清理
+    
+
+
+ - Wise Disk Cleaner: https://www.wisecleaner.com/wise-disk-cleaner-review.html
+     - 只有6Mb，这也太小巧便携了
+    
+
+
+ - CCleaner: https://www.ccleaner.com/zh-cn
+     - 有部分免费，也有收费功能，也算是不错
+    
+
+
+ - Bulk Crap Uninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
+     - 支持便携版，不用安装，仅Windows，用来卸载软件
+    
+
+
+ - geekuninstaller: https://geekuninstaller.com/
+     - 卸载软件，卸载恶意软件
     
 
 ### 重要资讯

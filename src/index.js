@@ -2,6 +2,9 @@ const wall = require('./wall.js');
 const ppt = require('./ppt.js');
 const tool = require('./tool.js');
 const pdf = require('./pdf.js');
+const clean = require('./clean.js');
+const study = require('./study.js');
+
 module.exports = {
     "更新时间": {
         "v1": {
@@ -232,6 +235,8 @@ module.exports = {
     ...ppt,
     ...tool,
     ...pdf,
+    ...study,
+    ...clean,
     "重要资讯": {
         "hellogithub": {
             "link":"https://hellogithub.com/",

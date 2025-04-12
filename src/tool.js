@@ -65,6 +65,24 @@ module.exports = {
                 "工具可卸载，在安装，规避非会员10个限制"
             ]
         },
+        "everything": {
+            "link": "https://www.voidtools.com/zh-cn/",
+            "desc": [
+                "windows搜索工具，搜索快捷键/文件/启动项"
+            ]
+        },
+        "listary": {
+            "link": "https://www.listary.com/",
+            "desc": [
+                "windows搜索工具，搜索快捷键/文件/启动项"
+            ]
+        },
+        "wox启动器": {
+            "link": "http://www.wox.one/",
+            "desc": [
+                "windows启动器，可以快速启动软件"
+            ]
+        },
     },
     "微信备份": {
         "WeChatMsg": {
