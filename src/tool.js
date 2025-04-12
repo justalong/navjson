@@ -83,6 +83,12 @@ module.exports = {
                 "windows启动器，可以快速启动软件"
             ]
         },
+        "screenpipe": {
+            "link": "https://github.com/mediar-ai/screenpipe",
+            "desc": [
+                "持续录屏软件，适合教程创作"
+            ]
+        },
     },
     "微信备份": {
         "WeChatMsg": {

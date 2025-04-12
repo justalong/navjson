@@ -628,6 +628,11 @@
      - windows启动器，可以快速启动软件
     
 
+
+ - screenpipe: https://github.com/mediar-ai/screenpipe
+     - 持续录屏软件，适合教程创作
+    
+
 ### 微信备份
 
 
