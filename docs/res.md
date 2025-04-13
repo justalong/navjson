@@ -25,6 +25,11 @@
      - 更新工具集合
     
 
+
+ - v6: 2025/4/14
+     - 更新工具和桌面清理
+    
+
 ### 网盘资源
 
 
@@ -698,6 +703,41 @@
 
  - thief: https://thief.im/
      - 一款功能强大的摸鱼软件，但是付费
+    
+
+### 日程/时钟
+
+
+ - 番茄时钟: https://github.com/Splode/pomotroid
+     - https://splode.github.io/pomotroid/
+     - 支持便携版，不用安装注册
+    
+
+
+ - Digital Clock 4: https://sourceforge.net/projects/digitalclock4/
+     - 一款“带插件的漂亮可定制时钟”
+    
+
+
+ - Catime: https://github.com/vladelaina/Catime
+     - 一款轻巧易用的 Windows 计时器
+    
+
+
+ - joplin: https://github.com/laurent22/joplin
+     - https://joplinapp.org
+     - 免费的开源笔记和待办事项工具
+    
+
+
+ - super-productivity: https://super-productivity.com/
+     - https://github.com/johannesjo/super-productivity
+     - 支持浏览器在线版本，制定日程，支持浏览器消息通知
+    
+
+
+ - lesliexin: http://www.lesliexin.com/ln/ln.html
+     - 支持桌面便笺，方便随时记录信息
     
 
 ### PDF工具

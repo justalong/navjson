@@ -167,5 +167,46 @@ module.exports = {
                 "一款功能强大的摸鱼软件，但是付费"
             ]
         }
+    },
+    "日程/时钟": {
+        "番茄时钟": {
+            "link": "https://github.com/Splode/pomotroid",
+            "desc": [
+                "https://splode.github.io/pomotroid/",
+                "支持便携版，不用安装注册"
+            ]
+        },
+        "Digital Clock 4": {
+            "link": "https://sourceforge.net/projects/digitalclock4/",
+            "desc": [
+                "一款“带插件的漂亮可定制时钟”"
+            ]
+        },
+        "Catime": {
+            "link": "https://github.com/vladelaina/Catime",
+            "desc": [
+                "一款轻巧易用的 Windows 计时器"
+            ]
+        },
+        "joplin": {
+            "link": "https://github.com/laurent22/joplin",
+            "desc": [
+                "https://joplinapp.org",
+                "免费的开源笔记和待办事项工具"
+            ]
+        },
+        "super-productivity": {
+            "link": "https://super-productivity.com/",
+            "desc": [
+                "https://github.com/johannesjo/super-productivity",
+                "支持浏览器在线版本，制定日程，支持浏览器消息通知"
+            ]
+        },
+        "lesliexin": {
+            "link": "http://www.lesliexin.com/ln/ln.html",
+            "desc": [
+                "支持桌面便笺，方便随时记录信息"
+            ]
+        }
     }
 }
