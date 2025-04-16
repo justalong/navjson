@@ -230,5 +230,86 @@ module.exports = {
                 "极简壁纸"
             ]
         }
+    },
+    "图片素材": {
+        "pinterest": {
+            "link": "https://www.pinterest.com/",
+            "desc": [
+                "支持搜索并能关联到三方网站原图",
+                "支持中文，支持多种图片分类"
+            ]
+        },
+        "pexels": {
+            "link": "https://www.pexels.com/zh-cn/discover/",
+            "desc": [
+                "高清免费摄影素材"
+            ]
+        },
+        "pinterest": {
+            "link": "https://www.pinterest.com/",
+            "desc": [
+                "支持搜索并能关联到三方网站原图"
+            ]
+        },
+        "unsplash": {
+            "link": "https://unsplash.com/",
+            "desc": [
+                "大多数图片，可以免费商用，高清无码"
+            ]
+        },
+        "stocksnap": {
+            "link": "https://stocksnap.io/",
+            "desc": [
+                "有免费有付费，可以下载使用免费作品素材库"
+            ]
+        },
+        "pixabay": {
+            "link": "https://pixabay.com/",
+            "desc": [
+                "网站提供矢量图"
+            ]
+        },
+        "PicJumbo": {
+            "link": "https://picjumbo.com/",
+            "desc": [
+                "每天更新，免费使用"
+            ]
+        },
+        "500px": {
+            "link": "https://500px.com/",
+            "desc": [
+                "摄影专业户，里面都是高质量拍摄图片"
+            ]
+        },
+        "foodiesfeed": {
+            "link": "https://www.foodiesfeed.com/",
+            "desc": [
+                "美食专业化，全部是美食图片"
+            ]
+        },
+        "flaticon": {
+            "link": "https://www.flaticon.com/",
+            "desc": [
+                "PPT、UI设计需要各种图标"
+            ]
+        },
+        "iconfont": {
+            "link": "https://www.iconfont.cn/",
+            "desc": [
+                "阿里的图标库，国内用户使用方便"
+            ]
+        },
+        "在线图片编辑": {
+            "link": "https://www.photopea.com/",
+            "desc": [
+                "在线图片编辑 photopea"
+            ]
+        },
+        "gimp": {
+            "link": "https://www.gimp.org/",
+            "desc": [
+                "开软免费图片编辑器"
+            ]
+        }
     }
 }

@@ -1,23 +1,13 @@
 ### 更新时间
 
 
- - v1: 2025/3/13
-     - 更新内容电子书网站国外版本
+ - v7: 2025/4/16
+     - 更新office和图片素材
     
 
 
- - v2: 2025/3/18
-     - 更新壁纸网站
-    
-
-
- - v3: 2025/3/24
-     - 更新ppt网站
-    
-
-
- - v4: 2025/4/01
-     - 更新开源资讯网站
+ - v6: 2025/4/14
+     - 更新工具和桌面清理
     
 
 
@@ -26,8 +16,23 @@
     
 
 
- - v6: 2025/4/14
-     - 更新工具和桌面清理
+ - v4: 2025/4/01
+     - 更新开源资讯网站
+    
+
+
+ - v3: 2025/3/24
+     - 更新ppt网站
+    
+
+
+ - v2: 2025/3/18
+     - 更新壁纸网站
+    
+
+
+ - v1: 2025/3/13
+     - 更新内容电子书网站国外版本
     
 
 ### 网盘资源
@@ -468,6 +473,68 @@
      - 极简壁纸
     
 
+### 图片素材
+
+
+ - pinterest: https://www.pinterest.com/
+     - 支持搜索并能关联到三方网站原图
+    
+
+
+ - pexels: https://www.pexels.com/zh-cn/discover/
+     - 高清免费摄影素材
+    
+
+
+ - unsplash: https://unsplash.com/
+     - 大多数图片，可以免费商用，高清无码
+    
+
+
+ - stocksnap: https://stocksnap.io/
+     - 有免费有付费，可以下载使用免费作品素材库
+    
+
+
+ - pixabay: https://pixabay.com/
+     - 网站提供矢量图
+    
+
+
+ - PicJumbo: https://picjumbo.com/
+     - 每天更新，免费使用
+    
+
+
+ - 500px: https://500px.com/
+     - 摄影专业户，里面都是高质量拍摄图片
+    
+
+
+ - foodiesfeed: https://www.foodiesfeed.com/
+     - 美食专业化，全部是美食图片
+    
+
+
+ - flaticon: https://www.flaticon.com/
+     - PPT、UI设计需要各种图标
+    
+
+
+ - iconfont: https://www.iconfont.cn/
+     - 阿里的图标库，国内用户使用方便
+    
+
+
+ - 在线图片编辑: https://www.photopea.com/
+     - 在线图片编辑 photopea
+    
+
+
+ - gimp: https://www.gimp.org/
+     - 开软免费图片编辑器
+    
+
 ### 免费PPT
 
 
@@ -738,6 +805,38 @@
 
  - lesliexin: http://www.lesliexin.com/ln/ln.html
      - 支持桌面便笺，方便随时记录信息
+    
+
+### 文档工具
+
+
+ - LibreOffice: https://zh-cn.libreoffice.org/
+     - 支持适配office官方所有
+     - 免费跨平台多端支持
+     - 支持文档格式转换导出/另存为
+    
+
+
+ - OpenOffice: https://www.openoffice.org/
+     - 支持适配office官方所有
+     - 免费跨平台多端支持，适合老电脑
+     - 支持文档格式转换导出/另存为
+    
+
+
+ - Microsoft 365 Online: https://www.microsoft365.com/?auth=1
+     - 官方在线版，通过网页浏览器访问
+     - 适合少量使用，跨平台，多终端同步
+    
+
+
+ - OnlyOffice Desktop: https://www.onlyoffice.com/zh/
+     - 强调与Office格式 .docx, .xlsx, .pptx的最高兼容性
+    
+
+
+ - FreeOffice: https://www.freeoffice.com/zh/
+     - 启动速度快，资源占用少，界面简洁
     
 
 ### PDF工具

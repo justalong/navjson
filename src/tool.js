@@ -208,5 +208,42 @@ module.exports = {
                 "支持桌面便笺，方便随时记录信息"
             ]
         }
+    },
+    "文档工具": {
+        "LibreOffice": {
+            "link": "https://zh-cn.libreoffice.org/",
+            "desc": [
+                "支持适配office官方所有",
+                "免费跨平台多端支持",
+                "支持文档格式转换导出/另存为"
+            ]
+        },
+        "OpenOffice": {
+            "link": "https://www.openoffice.org/",
+            "desc": [
+                "支持适配office官方所有",
+                "免费跨平台多端支持，适合老电脑",
+                "支持文档格式转换导出/另存为"
+            ]
+        },
+        "Microsoft 365 Online": {
+            "link": "https://www.microsoft365.com/?auth=1",
+            "desc": [
+                "官方在线版，通过网页浏览器访问",
+                "适合少量使用，跨平台，多终端同步"
+            ]
+        },
+        "OnlyOffice Desktop": {
+            "link": "https://www.onlyoffice.com/zh/",
+            "desc": [
+                "强调与Office格式 .docx, .xlsx, .pptx的最高兼容性"
+            ]
+        },
+        "FreeOffice": {
+            "link": "https://www.freeoffice.com/zh/",
+            "desc": [
+                "启动速度快，资源占用少，界面简洁"
+            ]
+        }
     }
 }
