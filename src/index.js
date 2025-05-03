@@ -3,10 +3,16 @@ const ppt = require('./ppt.js');
 const tool = require('./tool.js');
 const pdf = require('./pdf.js');
 const clean = require('./clean.js');
+const appbuy = require('./appbuy.js');
+const audio = require('./audio.js');
 const study = require('./study.js');
 
 module.exports = {
     "更新时间": {
+        "v8": {
+            "link":"2025/5/03",
+            "desc": ["更新预览/工资性价比计算/白噪音/app购买优惠"]
+        },
         "v7": {
             "link":"2025/4/16",
             "desc": ["更新office和图片素材"]
@@ -245,6 +251,8 @@ module.exports = {
     ...pdf,
     ...study,
     ...clean,
+    ...appbuy,
+    ...audio,
     "重要资讯": {
         "hellogithub": {
             "link":"https://hellogithub.com/",

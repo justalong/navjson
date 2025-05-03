@@ -65,6 +65,20 @@ module.exports = {
                 "工具可卸载，在安装，规避非会员10个限制"
             ]
         },
+        "PowerToys": {
+            "link": "https://github.com/microsoft/PowerToys",
+            "desc": [
+                "免费，且集成多功能工具，超强",
+                "微软官方工具，更加稳定",
+            ]
+        },
+        "TrafficMonitor": {
+            "link": "https://github.com/zhongyang219/TrafficMonitor",
+            "desc": [
+                " 监控电脑cpu/显卡/内存/硬盘/网速等",
+                "小巧，只有1M，可以切换主题，自定义设置等等",
+            ]
+        },
         "everything": {
             "link": "https://www.voidtools.com/zh-cn/",
             "desc": [
@@ -243,6 +257,32 @@ module.exports = {
             "link": "https://www.freeoffice.com/zh/",
             "desc": [
                 "启动速度快，资源占用少，界面简洁"
+            ]
+        }
+    },
+    "预览工具": {
+        "QuickLook": {
+            "link": "https://github.com/QL-Win/QuickLook",
+            "desc": [
+                "丰富的文件类型",
+                "支持从打开和保存文件对话框预览",
+                "通过插件轻松扩展预览内容"
+            ]
+        },
+        "WinQuickLook": {
+            "link": "https://github.com/shibayan/WinQuickLook",
+            "desc": [
+                "轻量小巧，通过命令行安装",
+                "适合极简用户或者有写开发经验的人",
+                "功能/繁荣程度不如第一款强大，覆盖全面"
+            ]
+        }
+    },
+    "好玩": {
+        "工作性价比": {
+            "link": "https://worthjob.zippland.com/",
+            "desc": [
+                "用数据衡量你的工作性价比够不够"
             ]
         }
     }

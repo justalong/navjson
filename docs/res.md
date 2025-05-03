@@ -1,6 +1,11 @@
 ### 更新时间
 
 
+ - v8: 2025/5/03
+     - 更新预览/工资性价比计算/白噪音/app购买优惠
+    
+
+
  - v7: 2025/4/16
      - 更新office和图片素材
     
@@ -686,6 +691,18 @@
     
 
 
+ - PowerToys: https://github.com/microsoft/PowerToys
+     - 免费，且集成多功能工具，超强
+     - 微软官方工具，更加稳定
+    
+
+
+ - TrafficMonitor: https://github.com/zhongyang219/TrafficMonitor
+     -  监控电脑cpu/显卡/内存/硬盘/网速等
+     - 小巧，只有1M，可以切换主题，自定义设置等等
+    
+
+
  - everything: https://www.voidtools.com/zh-cn/
      - windows搜索工具，搜索快捷键/文件/启动项
     
@@ -837,6 +854,29 @@
 
  - FreeOffice: https://www.freeoffice.com/zh/
      - 启动速度快，资源占用少，界面简洁
+    
+
+### 预览工具
+
+
+ - QuickLook: https://github.com/QL-Win/QuickLook
+     - 丰富的文件类型
+     - 支持从打开和保存文件对话框预览
+     - 通过插件轻松扩展预览内容
+    
+
+
+ - WinQuickLook: https://github.com/shibayan/WinQuickLook
+     - 轻量小巧，通过命令行安装
+     - 适合极简用户或者有写开发经验的人
+     - 功能/繁荣程度不如第一款强大，覆盖全面
+    
+
+### 好玩
+
+
+ - 工作性价比: https://worthjob.zippland.com/
+     - 用数据衡量你的工作性价比够不够
     
 
 ### PDF工具
@@ -998,6 +1038,71 @@
 
  - geekuninstaller: https://geekuninstaller.com/
      - 卸载软件，卸载恶意软件
+    
+
+### 购物优惠
+
+
+ - 慢慢买: 大件/电子/低频高价商品购买用户
+     - 数据更新频率高，有用户真实爆料，历史价格更真实
+    
+
+
+ - 什么值得买: 偏向社区创作，有好有坏，有的属于广告软文
+     - 人工精选“好价日报”
+     - 查看历史价格不如慢慢买便捷，准确性也不够
+    
+
+
+ - 省钱快报: 可快速领取隐藏优惠券并直接跳转购买
+     - 智能比价，以及多种返利商品，助力优惠购买
+    
+
+
+ - 好物清单: 创建多类购物清单，并设置降价提醒和库存监控
+     - 社区互动与真实评价，内置用户社区，用户可分享购物心
+    
+
+
+ - 购物党: 支持跨平台比价，货比三家能力
+     - 价格监控，价格提醒，界面简洁
+    
+
+### 白噪音网站
+
+
+ - moodist: https://moodist.mvze.net/
+     - 超过 75 种环境声音，多个声音可以组合使用
+     - 完全免费、开源且可自托管
+    
+
+
+ - Soft Murmur: https://asoftmurmur.com
+     - 网站简约干净没有广告打扰，无需安装app
+     - 可以混合不同声音，可以设置时间，调整声音大小
+    
+
+
+ - 潮汐: https://tide.fm/zh_CN/sounds/
+     - 除了网站还支持手机客户端APP软件
+     - 不止助眠，提供睡眠监测、轻唤醒与柔美闹钟功能
+    
+
+
+ - Rainy Mood: https://www.rainymood.com/
+     - 网站只有一个雷雨声播放，APP还能加上其他声音
+    
+
+
+ - Rainy Scope: https://rainyscope.com/#slide-3
+     - 提供了四季雨声
+     - 但是目前有几个声音无效
+    
+
+
+ - MIUI白噪音: https://www.miui.com/zt/miui10/whitenoise.html
+     - 小米白噪音，这个只能下载APP
+     - 支持森林、夏夜、海滩、细雨、炉火等声音
     
 
 ### 重要资讯
