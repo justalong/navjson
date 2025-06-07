@@ -1,10 +1,12 @@
 {
   "name": "nav-json",
-  "version": "1.0.24",
+  "version": "1.0.27",
   "description": "datajson",
   "main": "dist/index.json5",
   "scripts": {
     "build": "node build.js",
+    "build:quick": "node build.js --quick",
+    "quicktest": "node quick-test.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

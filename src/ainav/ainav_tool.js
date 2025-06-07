@@ -1,0 +1,4814 @@
+module.exports = 
+{
+  "AI文本": {
+    "5118": {
+      "link": "https://www.5118.com/ai/articlegenius",
+      "desc": [
+        "高质量SEO文章/提高搜索"
+      ],
+      "monthlyVisits": "27.4万"
+    },
+    "讯飞绘文": {
+      "link": "https://turbodesk.xfyun.cn/client-pro",
+      "desc": [
+        "写作/音频/学习教育/小红书创作/AI工具"
+      ],
+      "monthlyVisits": "13.2万"
+    },
+    "笔灵AI": {
+      "link": "https://ibiling.cn/",
+      "desc": [
+        "写作/论文&去重/PPT/小说/润色"
+      ],
+      "monthlyVisits": "17万"
+    },
+    "新华妙笔": {
+      "link": "https://miaobi.xinhuaskl.com/",
+      "desc": [
+        "笔记/文库/学习"
+      ],
+      "monthlyVisits": "5.4万"
+    },
+    "讯飞文书": {
+      "link": "https://gw.iflydocs.com/",
+      "desc": [
+        "党建/工作报告/讲话稿/心得体会/邀请函"
+      ],
+      "monthlyVisits": "7.3万"
+    },
+    "蛙蛙写作": {
+      "link": "https://wawawriter.com/app/",
+      "desc": [
+        "论文/教学教案/机关单位/视频脚本"
+      ],
+      "monthlyVisits": "0"
+    },
+    "墨狐AI": {
+      "link": "https://inkfox-ai.com/#/home",
+      "desc": [
+        "网文/大纲/同人/故事"
+      ],
+      "monthlyVisits": "7.3千"
+    },
+    "Paperpal": {
+      "link": "https://www.editage.cn/paperpal",
+      "desc": [
+        "英文论文/查重/翻译/助写/学者"
+      ],
+      "monthlyVisits": "4.2万"
+    },
+    "稿易": {
+      "link": "https://gaoyiai.com",
+      "desc": [
+        "论文/降重复/降AIGC"
+      ],
+      "monthlyVisits": "6.4千"
+    },
+    "千笔": {
+      "link": "https://www.aipaperpass.com",
+      "desc": [
+        "和上面一模一样"
+      ],
+      "monthlyVisits": "6万"
+    },
+    "66论文": {
+      "link": "https://www.66paper.cn/",
+      "desc": [
+        "论文/学生/期刊/实习/教育/课件"
+      ],
+      "monthlyVisits": "6.7万"
+    },
+    "绘蛙AI文案": {
+      "link": "https://www.ihuiwa.com/",
+      "desc": [
+        "AI图片/AI视频/AI文案/素材/模特"
+      ],
+      "monthlyVisits": "23.9万"
+    },
+    "稿定AI": {
+      "link": "https://www.gaoding.com/create-design",
+      "desc": [
+        "工具齐全/文本/图片/视频"
+      ],
+      "monthlyVisits": "261.4万"
+    },
+    "AI写作猫": {
+      "link": "https://xiezuocat.com",
+      "desc": [
+        "AI写作"
+      ],
+      "monthlyVisits": "31.1万"
+    },
+    "松果AI": {
+      "link": "https://songguoai.com/",
+      "desc": [
+        "AI写作/批量生成文章"
+      ],
+      "monthlyVisits": "0"
+    },
+    "QuillBot": {
+      "link": "https://try.quillbot.com",
+      "desc": [
+        "外语写作/AI工具集合"
+      ],
+      "monthlyVisits": "2.8万"
+    },
+    "小鱼AI写作": {
+      "link": "https://www.xiaoyuxiezuo.com",
+      "desc": [
+        "一站式AI创作，文本/图片/文字/降AIGC"
+      ],
+      "monthlyVisits": "1.1万"
+    },
+    "光速写作": {
+      "link": "https://www.guangsuxie.com/static/college-write-web/home",
+      "desc": [
+        "写作/PPT/办公/润色/小说"
+      ],
+      "monthlyVisits": "8.7千"
+    },
+    "讯飞写作": {
+      "link": "https://huixie.iflyrec.com/list",
+      "desc": [
+        "AI智能写作"
+      ],
+      "monthlyVisits": "2.2万"
+    },
+    "橙篇": {
+      "link": "https://cp.baidu.com/",
+      "desc": [
+        "AI长文理解/内容创作/PPT/文本"
+      ],
+      "monthlyVisits": "403.4万"
+    },
+    "Notion AI": {
+      "link": "https://www.notion.com/zh-cn/product/ai",
+      "desc": [
+        "内容创作"
+      ],
+      "monthlyVisits": "1682.1万"
+    },
+    "FlowUs AI": {
+      "link": "https://flowus.cn/ai",
+      "desc": [
+        "写作/文本/代码/翻译/公式"
+      ],
+      "monthlyVisits": "402万"
+    },
+    "万能小in": {
+      "link": "https://xiaoin.cn/",
+      "desc": [
+        "写作/PPT/演讲稿/工作总结"
+      ],
+      "monthlyVisits": "0"
+    },
+    "ReadPo": {
+      "link": "https://readpo.com/zh",
+      "desc": [
+        "写作/RAG/Agent/API"
+      ],
+      "monthlyVisits": "1.3万"
+    },
+    "迅捷AI写作": {
+      "link": "https://www.aichat1234.com/app/",
+      "desc": [
+        "写作/批量写作/PPT/AI助理/论文"
+      ],
+      "monthlyVisits": "2万"
+    },
+    "MidReal": {
+      "link": "https://midreal.ai/",
+      "desc": [
+        "AI小说故事"
+      ],
+      "monthlyVisits": "64万"
+    },
+    "Rytr": {
+      "link": "https://rytr.me/",
+      "desc": [
+        "内容生成/写作"
+      ],
+      "monthlyVisits": "39万"
+    },
+    "Copy.ai": {
+      "link": "https://www.copy.ai/tools",
+      "desc": [
+        "AI字幕/大纲/营销邮件/广告文案/主要针对营销"
+      ],
+      "monthlyVisits": "96.5万"
+    },
+    "Jasper": {
+      "link": "https://www.jasper.ai/",
+      "desc": [
+        "AI营销"
+      ],
+      "monthlyVisits": "104.1万"
+    },
+    "库宝AI工作助手": {
+      "link": "https://588tool.com/",
+      "desc": [
+        "千库网AI创作工具"
+      ],
+      "monthlyVisits": "5.3千"
+    },
+    "茅茅虫": {
+      "link": "https://mymmc.cn/",
+      "desc": [
+        "论文/降重/AIGC检测"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Grammarly": {
+      "link": "https://www.grammarly.com",
+      "desc": [
+        "写作/错误检查/英语语法检查/学习/教育"
+      ],
+      "monthlyVisits": "5131.1万"
+    },
+    "文状元": {
+      "link": "https://www.wenzhuangyuan.cn/",
+      "desc": [
+        "公职模板/公职写作/教师/范文库"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Writesonic": {
+      "link": "https://writesonic.com/",
+      "desc": [
+        "AI撰写/AI文章SEO"
+      ],
+      "monthlyVisits": "125万"
+    },
+    "DeepL Write": {
+      "link": "https://www.deepl.com/write",
+      "desc": [
+        "DeepL翻译工具AI能力"
+      ],
+      "monthlyVisits": "1.9亿"
+    },
+    "Jenni": {
+      "link": "https://jenni.ai/",
+      "desc": [
+        "AI研究文章/博客/写作辅助"
+      ],
+      "monthlyVisits": "103.4万"
+    },
+    "有道翻译AI写作": {
+      "link": "https://fanyi.youdao.com/aiwrite",
+      "desc": [
+        "写作辅助/100多种语言"
+      ],
+      "monthlyVisits": "531万"
+    },
+    "Wordvice AI": {
+      "link": "https://wordvice.ai/cn",
+      "desc": [
+        "免费AI写作/研究院/学生/作家"
+      ],
+      "monthlyVisits": "74.2万"
+    },
+    "AI新媒体文章": {
+      "link": "https://vt.quark.cn/blm/creator-773/index",
+      "desc": [
+        "夸克AI写作"
+      ],
+      "monthlyVisits": "429.3万"
+    },
+    "宙语Cosmos": {
+      "link": "https://ailjyk.com/pc/creation/model",
+      "desc": [
+        "学生/教师/论文/转口语写法/行政"
+      ],
+      "monthlyVisits": "5.1千"
+    },
+    "灵构笔记": {
+      "link": "https://88lingo.com/ai",
+      "desc": [
+        "笔记/读后感/画图/思路整理"
+      ],
+      "monthlyVisits": "0"
+    },
+    "有道写作": {
+      "link": "https://write.youdao.com/#/homepage",
+      "desc": [
+        "英文写作/润色/批改"
+      ],
+      "monthlyVisits": "1.1万"
+    },
+    "littlefrog 小蛙AI": {
+      "link": "https://littlefrog.ai/",
+      "desc": [
+        "写作/营销/诗歌"
+      ],
+      "monthlyVisits": "0"
+    },
+    "文思助手": {
+      "link": "https://wensi.sodabot.cn/",
+      "desc": [
+        "专业报告/科研论文"
+      ],
+      "monthlyVisits": "0"
+    },
+    "WriteWise": {
+      "link": "https://www.ximalaya.com/gatekeeper/write-wise-web",
+      "desc": [
+        "专业网文/小说AI写作"
+      ],
+      "monthlyVisits": "625.7万"
+    },
+    "百度作家平台": {
+      "link": "https://zuojia.baidu.com",
+      "desc": [
+        "AI小说"
+      ],
+      "monthlyVisits": "2万"
+    },
+    "爱创作": {
+      "link": "https://ai.zaker.cn",
+      "desc": [
+        "写稿/推文/营销文案"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Verse": {
+      "link": "https://verse.app.yinxiang.com/product/",
+      "desc": [
+        "AI写作/考研/办公/计划/旅行"
+      ],
+      "monthlyVisits": "0"
+    },
+    "万彩AI": {
+      "link": "https://ai.kezhan365.com/",
+      "desc": [
+        "全能型AI创作/文案创作"
+      ],
+      "monthlyVisits": "1.7万"
+    },
+    "NovelAI": {
+      "link": "https://novelai.net/",
+      "desc": [
+        "AI故事/二次元"
+      ],
+      "monthlyVisits": "435.3万"
+    },
+    "HyperWrite": {
+      "link": "https://www.hyperwriteai.com/",
+      "desc": [
+        "AI写作助手/写作工具"
+      ],
+      "monthlyVisits": "72.8万"
+    },
+    "阿里妈妈": {
+      "link": "https://chuangyi.taobao.com/pages/aiCopy",
+      "desc": [
+        "智能文案/一键生成电商营销文案"
+      ],
+      "monthlyVisits": "4.3万"
+    },
+    "Effidit": {
+      "link": "https://effidit.qq.com",
+      "desc": [
+        "腾讯AI/文本补全/智能纠错"
+      ],
+      "monthlyVisits": "7.4万"
+    },
+    "火龙果": {
+      "link": "https://www.mypitaya.com",
+      "desc": [
+        "校对/改写/拓展"
+      ],
+      "monthlyVisits": "4.9万"
+    },
+    "树熊写作": {
+      "link": "https://ai.koalaoffice.com/ai/homePage",
+      "desc": [
+        "综合AI写作/职场/机关/学术/教学"
+      ],
+      "monthlyVisits": "0"
+    },
+    "爱改写": {
+      "link": "https://www.aigaixie.com",
+      "desc": [
+        "AI改写/纠错/润色"
+      ],
+      "monthlyVisits": "1.1万"
+    },
+    "Friday": {
+      "link": "https://www.heyfriday.cn/home",
+      "desc": [
+        "文本创作"
+      ],
+      "monthlyVisits": "0"
+    },
+    "易撰": {
+      "link": "https://www.yizhuan5.com/work.html#1-4",
+      "desc": [
+        "新媒体AI内容创作"
+      ],
+      "monthlyVisits": "9.4万"
+    },
+    "Giiso 智搜": {
+      "link": "https://www.giiso.com",
+      "desc": [
+        "综合创作/内容创作"
+      ],
+      "monthlyVisits": "6.3千"
+    },
+    "悟智写作": {
+      "link": "https://www.wuz.com.cn/",
+      "desc": [
+        "写作/校对/改写/拓展/小红书"
+      ],
+      "monthlyVisits": "0"
+    },
+    "讯飞智检": {
+      "link": "https://zj.xfyun.cn/exam/text",
+      "desc": [
+        "校对/合规/图片/音频/视频"
+      ],
+      "monthlyVisits": "9千"
+    },
+    "ContentBot": {
+      "link": "https://contentbot.ai/",
+      "desc": [
+        "AI内容自动化/智能作家/写作工作流"
+      ],
+      "monthlyVisits": "2.7万"
+    },
+    "Bearly": {
+      "link": "https://bearly.ai/",
+      "desc": [
+        "AI写作/内容生成"
+      ],
+      "monthlyVisits": "2.4万"
+    },
+    "CopyDone": {
+      "link": "https://copyai.cn",
+      "desc": [
+        "营销文案"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Compose AI": {
+      "link": "https://www.compose.ai/",
+      "desc": [
+        "智能写作/chrome插件"
+      ],
+      "monthlyVisits": "10.8万"
+    },
+    "Texta": {
+      "link": "https://texta.ai/free-ai-writer",
+      "desc": [
+        "AI博客/研究/文章生成"
+      ],
+      "monthlyVisits": "17.9万"
+    },
+    "Sudowrite": {
+      "link": "https://sudowrite.com/",
+      "desc": [
+        "故事写作/风格选择"
+      ],
+      "monthlyVisits": "89.5万"
+    },
+    "ClosersCopy": {
+      "link": "https://www.closerscopy.com/",
+      "desc": [
+        "AI文案写作/SEO"
+      ],
+      "monthlyVisits": "1.2万"
+    },
+    "Anyword": {
+      "link": "https://www.anyword.com/",
+      "desc": [
+        "AI文案写作/文本生成器"
+      ],
+      "monthlyVisits": "5.6万"
+    },
+    "Smodin": {
+      "link": "https://smodin.io/zh-cn/%E4%BD%9C%E5%AE%B6/%E7%A0%94%E7%A9%B6%E8%AE%BA%E6%96%87",
+      "desc": [
+        "AI研究论文/作家"
+      ],
+      "monthlyVisits": "280.1万"
+    },
+    "ParagraphAI": {
+      "link": "https://www.paragraphai.com/product",
+      "desc": [
+        "写作"
+      ],
+      "monthlyVisits": "6万"
+    },
+    "Jounce": {
+      "link": "https://www.jounce.ai/",
+      "desc": [
+        "AI营销"
+      ],
+      "monthlyVisits": "1.4万"
+    },
+    "Elephas": {
+      "link": "https://elephas.app/",
+      "desc": [
+        "与Mac/iPhone/iPad集成/个人写作"
+      ],
+      "monthlyVisits": "6.6万"
+    },
+    "AISEO": {
+      "link": "https://aiseo.ai/",
+      "desc": [
+        "AI创作SEO/文案/文章/营销/博士/学生"
+      ],
+      "monthlyVisits": "313.9万"
+    },
+    "PaperBetter AI": {
+      "link": "http://www.ai.paperbetter.com/",
+      "desc": [
+        "AI论文/一键生成万字初稿"
+      ],
+      "monthlyVisits": "0"
+    },
+    "范文喵": {
+      "link": "https://ai.wolian.chat/openmao/#/",
+      "desc": [
+        "大学生/AI论文"
+      ],
+      "monthlyVisits": "6.8千"
+    },
+    "小微智能论文": {
+      "link": "http://t2unr1.checkmore.net/tb/NY6p0S",
+      "desc": [
+        "人工智能/论文创作"
+      ],
+      "monthlyVisits": "0"
+    },
+    "笔杆论文": {
+      "link": "https://write.bigan.net/#/home",
+      "desc": [
+        "AI论文写作"
+      ],
+      "monthlyVisits": "0"
+    },
+    "AI论文君": {
+      "link": "https://www.ailunwenjun.com/",
+      "desc": [
+        "论文写作"
+      ],
+      "monthlyVisits": "0"
+    },
+    "SurferSEO": {
+      "link": "https://surferseo.com/",
+      "desc": [
+        "AI创作/SEO大纲/内容优化/写作"
+      ],
+      "monthlyVisits": "112.7万"
+    },
+    "ProWritingAid": {
+      "link": "https://prowritingaid.com",
+      "desc": [
+        "英语写作润色/修改"
+      ],
+      "monthlyVisits": "183万"
+    },
+    "WordTune": {
+      "link": "https://www.wordtune.com/",
+      "desc": [
+        "人工智能写作"
+      ],
+      "monthlyVisits": "108万"
+    },
+    "Yaara": {
+      "link": "https://www.yaara.ai/",
+      "desc": [
+        "撰写长篇/AI写作"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Frase": {
+      "link": "https://frase.io/",
+      "desc": [
+        "AI SEO/内容优化/写作"
+      ],
+      "monthlyVisits": "18.8万"
+    },
+    "TextCortex": {
+      "link": "https://textcortex.com/",
+      "desc": [
+        "AI写作"
+      ],
+      "monthlyVisits": "81.7万"
+    },
+    "Content at Scale": {
+      "link": "https://contentatscale.ai/about/",
+      "desc": [
+        "AI SEO/长内容创作"
+      ],
+      "monthlyVisits": "1.1万"
+    }
+  },
+  "AI商品": {
+    "绘蛙": {
+      "link": "https://ihuiwa.paluai.com/aibot",
+      "desc": [
+        "AI电商营销/生成商品/种草文案"
+      ],
+      "monthlyVisits": "7.5千"
+    },
+    "稿定AI商品图": {
+      "link": "https://www.gaoding.com/tools-ai-background",
+      "desc": [
+        "AI商品图生成"
+      ],
+      "monthlyVisits": "261.4万"
+    },
+    "美图设计室": {
+      "link": "https://www.designkit.com/product-shoot/",
+      "desc": [
+        "AI商拍"
+      ],
+      "monthlyVisits": "94.6万"
+    },
+    "Pic Copilot": {
+      "link": "https://www.piccopilot.com/create/",
+      "desc": [
+        "阿里国际AI电商营销"
+      ],
+      "monthlyVisits": "24.5万"
+    },
+    "蜂鸟AI": {
+      "link": "https://fengniaoai.com/",
+      "desc": [
+        "电商AI营销"
+      ],
+      "monthlyVisits": "0"
+    },
+    "PhotoStudio AI": {
+      "link": "https://psai.cn/",
+      "desc": [
+        "AI商拍/服装"
+      ],
+      "monthlyVisits": "0"
+    },
+    "妙思": {
+      "link": "https://admuse.qq.com/#/index",
+      "desc": [
+        "腾讯广告/成品库/原料库/AI广告创意"
+      ],
+      "monthlyVisits": "8.1千"
+    },
+    "Cliclic AI": {
+      "link": "https://www.cliclic.ai/",
+      "desc": [
+        "创客贴推出AI商品/图生成/编辑"
+      ],
+      "monthlyVisits": "0"
+    },
+    "LinkFox AI": {
+      "link": "https://ai.linkfox.com/",
+      "desc": [
+        "AI商品/专业电商图"
+      ],
+      "monthlyVisits": "3.2万"
+    },
+    "羚珑": {
+      "link": "https://ling.jd.com",
+      "desc": [
+        "京东推出商品图"
+      ],
+      "monthlyVisits": "4.5万"
+    },
+    "创自由": {
+      "link": "https://www.chuangziyou.com/",
+      "desc": [
+        "设计商品图/广告图/AI作图"
+      ],
+      "monthlyVisits": "0"
+    },
+    "redoon AI": {
+      "link": "https://www.redoon.cn/index",
+      "desc": [
+        "专业AI商品图生成"
+      ],
+      "monthlyVisits": "0"
+    },
+    "AI创意商拍": {
+      "link": "https://www.meijian.com/e-commerce",
+      "desc": [
+        "AI电商设计/一键生成高质量商品图"
+      ],
+      "monthlyVisits": "9.8万"
+    },
+    "PhotoMagic": {
+      "link": "https://www.photomagic.cn/",
+      "desc": [
+        "AI生成商拍"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Pebblely": {
+      "link": "https://pebblely.com",
+      "desc": [
+        "AI商品"
+      ],
+      "monthlyVisits": "17.4万"
+    },
+    "Mokker AI": {
+      "link": "https://mokker.ai",
+      "desc": [
+        "AI产品图添加背景"
+      ],
+      "monthlyVisits": "10.9万"
+    },
+    "图生生": {
+      "link": "https://tushengsheng.com/home",
+      "desc": [
+        "AI商拍"
+      ],
+      "monthlyVisits": "6.2千"
+    },
+    "WeShop唯象": {
+      "link": "https://www.weshop.com/",
+      "desc": [
+        "AI商拍"
+      ],
+      "monthlyVisits": "4万"
+    }
+  },
+  "AI图像": {
+    "吐司AI": {
+      "link": "https://tusiart.com/",
+      "desc": [
+        "AI绘画/在线生图"
+      ],
+      "monthlyVisits": "27.3万"
+    },
+    "LiblibAI·哩布哩布AI": {
+      "link": "https://www.liblib.art",
+      "desc": [
+        "国内领先的AI图像创作/模型社区"
+      ],
+      "monthlyVisits": "298.8万"
+    },
+    "即梦": {
+      "link": "https://jimeng.jianying.com/ai-tool/home",
+      "desc": [
+        "抖音旗下免费AI图片创作"
+      ],
+      "monthlyVisits": "650.8万"
+    },
+    "Midjourney": {
+      "link": "https://www.midjourney.com/home",
+      "desc": [
+        "国际知名AI图像/插画生成"
+      ],
+      "monthlyVisits": "1468.3万"
+    },
+    "Stable Diffusion": {
+      "link": "https://stablediffusionweb.com/zh-cn",
+      "desc": [
+        "SD 文本到图像/图生图"
+      ],
+      "monthlyVisits": "150.1万"
+    },
+    "Civitai": {
+      "link": "https://civitai.com",
+      "desc": [
+        "免费的AI图像绘画/模型分享/社区"
+      ],
+      "monthlyVisits": "1760.7万"
+    },
+    "堆友AI": {
+      "link": "https://d.design/",
+      "desc": [
+        "阿里旗下堆友/多风格AI绘画生成器"
+      ],
+      "monthlyVisits": "22.5万"
+    },
+    "通义万相": {
+      "link": "https://tongyi.aliyun.com/wanxiang/",
+      "desc": [
+        "阿里AI绘画创作"
+      ],
+      "monthlyVisits": "83.8万"
+    },
+    "秒画": {
+      "link": "https://miaohua.sensetime.com/inspiration",
+      "desc": [
+        "商汤科技免费AI作画/图片生成"
+      ],
+      "monthlyVisits": "6.1万"
+    },
+    "WHEE": {
+      "link": "https://www.whee.com",
+      "desc": [
+        "美图推出AI图片/绘画创作"
+      ],
+      "monthlyVisits": "13.1万"
+    },
+    "奇域AI": {
+      "link": "https://www.qiyuai.net/",
+      "desc": [
+        "中式审美/国风AI绘画"
+      ],
+      "monthlyVisits": "5.5万"
+    },
+    "触手AI绘画": {
+      "link": "https://acgnai.art/",
+      "desc": [
+        "免费专业的AI绘画/模型分享"
+      ],
+      "monthlyVisits": "4.2万"
+    },
+    "文心一格": {
+      "link": "https://yige.baidu.com",
+      "desc": [
+        "AI艺术和创意"
+      ],
+      "monthlyVisits": "10.9万"
+    },
+    "造梦日记": {
+      "link": "https://zmrj.art/",
+      "desc": [
+        "妙笔生画"
+      ],
+      "monthlyVisits": "1.2万"
+    },
+    "Canva AI图像生成": {
+      "link": "https://www.canva.cn/image-generator/",
+      "desc": [
+        "Canva推出AI图像生成"
+      ],
+      "monthlyVisits": "235.1万"
+    },
+    "超能画布": {
+      "link": "https://photo.baidu.com/photasy/home",
+      "desc": [
+        "网盘 AI创意图像写真"
+      ],
+      "monthlyVisits": "31.4万"
+    },
+    "美图AI文生图": {
+      "link": "https://www.designkit.com/",
+      "desc": [
+        "美图AI文本生成图片"
+      ],
+      "monthlyVisits": "94.6万"
+    },
+    "Bing Image Creator": {
+      "link": "https://www.bing.com/images/create",
+      "desc": [
+        "微软必应推出AI图像生成"
+      ],
+      "monthlyVisits": "14.2亿"
+    },
+    "简单AI": {
+      "link": "https://ai.sohu.com/pc/home",
+      "desc": [
+        "搜狐推出AI图片生成"
+      ],
+      "monthlyVisits": "7.2万"
+    },
+    "摩笔马良": {
+      "link": "https://maliang.mthreads.com/",
+      "desc": [
+        "摩尔线程推出AI图像绘画"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Exactly.ai": {
+      "link": "https://exactly.ai/",
+      "desc": [
+        "AI绘画和艺术创作"
+      ],
+      "monthlyVisits": "6万"
+    },
+    "画宇宙": {
+      "link": "https://creator.nolipix.com/",
+      "desc": [
+        "AI作画"
+      ],
+      "monthlyVisits": "0"
+    },
+    "创客贴": {
+      "link": "https://aiart.chuangkit.com/landingpage",
+      "desc": [
+        "AI艺术画生成"
+      ],
+      "monthlyVisits": "12万"
+    },
+    "Visual Electric": {
+      "link": "https://visualelectric.com/",
+      "desc": [
+        "AI图像创作"
+      ],
+      "monthlyVisits": "22.1万"
+    },
+    "360智绘": {
+      "link": "https://aigc.360.com/",
+      "desc": [
+        "360推出AI图片/绘画生成"
+      ],
+      "monthlyVisits": "1.1万"
+    },
+    "AI设计工坊": {
+      "link": "https://ke.study.163.com/artWorks/painting",
+      "desc": [
+        "网易云课堂推出/在线使用SD出图"
+      ],
+      "monthlyVisits": "9.4万"
+    },
+    "Freepik": {
+      "link": "https://www.freepik.com/ai/image-generator",
+      "desc": [
+        "AI图片生成"
+      ],
+      "monthlyVisits": "1亿"
+    },
+    "Stockimg AI": {
+      "link": "https://stockimg.ai/",
+      "desc": [
+        "AI生成图像和插画"
+      ],
+      "monthlyVisits": "28.3万"
+    },
+    "Stable Doodle": {
+      "link": "https://clipdrop.co/",
+      "desc": [
+        "将手绘草图转换成精美图像"
+      ],
+      "monthlyVisits": "149.5万"
+    },
+    "行者AI美术": {
+      "link": "https://www.xingzheai.cn/#create",
+      "desc": [
+        "AI图片生成/美术创作"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Skybox AI": {
+      "link": "https://skybox.blockadelabs.com/",
+      "desc": [
+        "AI合成360°全景图像插画"
+      ],
+      "monthlyVisits": "7.8万"
+    },
+    "千鹿AI": {
+      "link": "https://qianlu.cc/",
+      "desc": [
+        "每日可免费生成300张图像"
+      ],
+      "monthlyVisits": "0"
+    },
+    "包图": {
+      "link": "https://ibaotu.com/",
+      "desc": [
+        "一站式图像/插画生成"
+      ],
+      "monthlyVisits": "207.6万"
+    },
+    "星流AI": {
+      "link": "https://www.xingliu.art/",
+      "desc": [
+        "一站式AI图像生成"
+      ],
+      "monthlyVisits": "41.1万"
+    },
+    "悠船": {
+      "link": "https://www.youchuan.cn/",
+      "desc": [
+        "Midjourney官方 中文版AI图像生成"
+      ],
+      "monthlyVisits": "5.6万"
+    },
+    "神采": {
+      "link": "https://www.ishencai.com",
+      "desc": [
+        "AI生成创意插画"
+      ],
+      "monthlyVisits": "6.8万"
+    },
+    "niji・journey": {
+      "link": "https://nijijourney.com/",
+      "desc": [
+        "二次元绘画"
+      ],
+      "monthlyVisits": "29.1万"
+    },
+    "Deep Dream Generator": {
+      "link": "https://deepdreamgenerator.com/",
+      "desc": [
+        "梦幻般插画图片"
+      ],
+      "monthlyVisits": "92.2万"
+    },
+    "无限画": {
+      "link": "https://588ku.com/ai/wuxianhua/Home",
+      "desc": [
+        "AI图片插画生成"
+      ],
+      "monthlyVisits": "103.9万"
+    },
+    "BlueWillow": {
+      "link": "https://www.bluewillow.ai/",
+      "desc": [
+        "免费AI艺术画生成"
+      ],
+      "monthlyVisits": "10.9万"
+    },
+    "Waifu Labs": {
+      "link": "https://waifulabs.com/",
+      "desc": [
+        "AI生成二次元动漫头像"
+      ],
+      "monthlyVisits": "6.5万"
+    },
+    "dreamlike.art": {
+      "link": "https://dreamlike.art/",
+      "desc": [
+        "免费在线插画生成"
+      ],
+      "monthlyVisits": "6.8万"
+    },
+    "Artbreeder": {
+      "link": "https://www.artbreeder.com/",
+      "desc": [
+        "AI插画/艺术"
+      ],
+      "monthlyVisits": "99.5万"
+    },
+    "Craiyon": {
+      "link": "https://www.craiyon.com/",
+      "desc": [
+        "文本图像生成"
+      ],
+      "monthlyVisits": "227.9万"
+    },
+    "万兴科技": {
+      "link": "https://aigc.wondershare.cn",
+      "desc": [
+        "AI生成高品质艺术画"
+      ],
+      "monthlyVisits": "7.2千"
+    },
+    "Astria": {
+      "link": "https://www.astria.ai/",
+      "desc": [
+        "人工智能图像生成"
+      ],
+      "monthlyVisits": "8.4万"
+    },
+    "getimg.ai": {
+      "link": "https://getimg.ai/",
+      "desc": [
+        "在线AI图像和插画"
+      ],
+      "monthlyVisits": "204.9万"
+    },
+    "DreamUp": {
+      "link": "https://www.deviantart.com/dreamup",
+      "desc": [
+        "AI插画生成"
+      ],
+      "monthlyVisits": "9359.2万"
+    },
+    "Lexica": {
+      "link": "https://lexica.art/",
+      "desc": [
+        "基于SD的在线插画生成"
+      ],
+      "monthlyVisits": "65.3万"
+    },
+    "Generated Photos": {
+      "link": "https://generated.photos/",
+      "desc": [
+        "AI人脸头像生成"
+      ],
+      "monthlyVisits": "49.4万"
+    },
+    "Picsart AI": {
+      "link": "https://picsart.com/zh/",
+      "desc": [
+        "AI图片生成器"
+      ],
+      "monthlyVisits": "1353.5万"
+    },
+    "Magic Studio": {
+      "link": "https://magicstudio.com/zh/",
+      "desc": [
+        "AI文字到图片生成"
+      ],
+      "monthlyVisits": "173.9万"
+    },
+    "neural.love": {
+      "link": "https://neural.love/",
+      "desc": [
+        "AI艺术图片生成"
+      ],
+      "monthlyVisits": "75.2万"
+    },
+    "starryai": {
+      "link": "https://starryai.com/",
+      "desc": [
+        "AI艺术图片生成"
+      ],
+      "monthlyVisits": "74.6万"
+    },
+    "ShutterStock AI图片生成": {
+      "link": "https://www.shutterstock.com/zh/ai-image-generator",
+      "desc": [
+        "AI图片生成"
+      ],
+      "monthlyVisits": "5844.5万"
+    },
+    "Playform": {
+      "link": "https://www.playform.io/",
+      "desc": [
+        "AI艺术画生成"
+      ],
+      "monthlyVisits": "6.1万"
+    },
+    "Supermeme": {
+      "link": "https://supermeme.ai/",
+      "desc": [
+        "MEME梗图生成器"
+      ],
+      "monthlyVisits": "18.9万"
+    },
+    "Fotor": {
+      "link": "https://www.fotor.com/features/ai-image-generator",
+      "desc": [
+        "在线AI图片生成"
+      ],
+      "monthlyVisits": "1436.8万"
+    },
+    "Dream.ai": {
+      "link": "https://dream.ai/",
+      "desc": [
+        "AI艺术画生成"
+      ],
+      "monthlyVisits": "24.7万"
+    },
+    "无界AI": {
+      "link": "https://www.wujieai.com/",
+      "desc": [
+        "AI生成艺术插画/二次元人物"
+      ],
+      "monthlyVisits": "3.8万"
+    },
+    "改图鸭": {
+      "link": "https://www.gaituya.com/aiimg",
+      "desc": [
+        "改图鸭AI图片生成"
+      ],
+      "monthlyVisits": "8.2万"
+    },
+    "Prodia": {
+      "link": "https://prodia.com/",
+      "desc": [
+        "AI艺术画生成"
+      ],
+      "monthlyVisits": "5.7万"
+    },
+    "Lucidpic": {
+      "link": "https://lucidpic.com/",
+      "desc": [
+        "AI生成人像照片"
+      ],
+      "monthlyVisits": "3.8万"
+    }
+  },
+  "AI视频工具": {
+    "DeepBrain": {
+      "link": "https://www.aistudios.com/",
+      "desc": [
+        "AI口播视频生成"
+      ],
+      "monthlyVisits": "102.3万"
+    },
+    "Synthesia": {
+      "link": "https://www.synthesia.io/",
+      "desc": [
+        "AI视频生成"
+      ],
+      "monthlyVisits": "246万"
+    },
+    "Lumen5": {
+      "link": "https://lumen5.com/",
+      "desc": [
+        "AI将博客文章转换成视频"
+      ],
+      "monthlyVisits": "68.5万"
+    },
+    "万彩微影": {
+      "link": "https://www.animiz.cn/microvideo/",
+      "desc": [
+        "自动生成动画短视频"
+      ],
+      "monthlyVisits": "8.5万"
+    },
+    "录咖": {
+      "link": "https://reccloud.cn/",
+      "desc": [
+        "一站式AI音视频总结/转录"
+      ],
+      "monthlyVisits": "14万"
+    },
+    "怪兽AI数字人": {
+      "link": "https://www.guaishouai.com/",
+      "desc": [
+        "人工智能数字人短视频创作和直播"
+      ],
+      "monthlyVisits": "0"
+    },
+    "团队快剪": {
+      "link": "https://teamcut.shanjian.tv/",
+      "desc": [
+        "带货的AI视频"
+      ],
+      "monthlyVisits": "0"
+    },
+    "鬼手剪辑GhostCut": {
+      "link": "https://cn.jollytoday.com/",
+      "desc": [
+        "多功能AI视频二创剪辑/翻译"
+      ],
+      "monthlyVisits": "6.5万"
+    },
+    "模力视频": {
+      "link": "https://www.mooliv.com/",
+      "desc": [
+        "AI驱动的视频编辑"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Gencraft": {
+      "link": "https://gencrafts.com/",
+      "desc": [
+        "AI艺术画视频生成"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Synthesys": {
+      "link": "https://synthesys.io/",
+      "desc": [
+        "AI虚拟人"
+      ],
+      "monthlyVisits": "12.5万"
+    },
+    "Veed Video Background Remover": {
+      "link": "https://www.veed.io/zh-CN/tools/video-background-remover",
+      "desc": [
+        "AI视频背景移除"
+      ],
+      "monthlyVisits": "1173.5万"
+    },
+    "Hour One": {
+      "link": "https://hourone.ai/",
+      "desc": [
+        "文字视频生成"
+      ],
+      "monthlyVisits": "7.4万"
+    },
+    "Colourlab.ai": {
+      "link": "https://colourlab.ai",
+      "desc": [
+        "AI视频颜色分级"
+      ],
+      "monthlyVisits": "4.9万"
+    },
+    "Cutout.Pro": {
+      "link": "https://www.cutout.pro/zh-CN/remove-video-background",
+      "desc": [
+        "AI视频背景移除"
+      ],
+      "monthlyVisits": "1394.2万"
+    },
+    "Colossyan": {
+      "link": "https://www.colossyan.com/",
+      "desc": [
+        "AI虚拟人出镜视频生成"
+      ],
+      "monthlyVisits": "14.3万"
+    },
+    "AVCLabs": {
+      "link": "https://app.avclabs.com/#",
+      "desc": [
+        "AI自动移除视频背景"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Elai.io": {
+      "link": "https://elai.io/",
+      "desc": [
+        "AI文本到视频生成"
+      ],
+      "monthlyVisits": "19.7万"
+    },
+    "Pictory": {
+      "link": "https://pictory.ai/",
+      "desc": [
+        "AI视频制作"
+      ],
+      "monthlyVisits": "260.9万"
+    },
+    "SteveAI": {
+      "link": "https://www.steve.ai/",
+      "desc": [
+        "AI在线视频制作"
+      ],
+      "monthlyVisits": "77.1万"
+    },
+    "Rask": {
+      "link": "https://www.rask.ai/",
+      "desc": [
+        "AI视频本地化/支持超过130种语言"
+      ],
+      "monthlyVisits": "38万"
+    },
+    "白日梦": {
+      "link": "https://aibrm.com/",
+      "desc": [
+        "AI视频创作，最长可生成六分钟的视频"
+      ],
+      "monthlyVisits": "8.3万"
+    },
+    "SoundView": {
+      "link": "https://soundviewai.com/invitation",
+      "desc": [
+        "AI视频本地化/支持视频配音和翻译"
+      ],
+      "monthlyVisits": "1.8万"
+    },
+    "讯飞绘镜": {
+      "link": "https://typemovie.art/",
+      "desc": [
+        "AI短视频创作"
+      ],
+      "monthlyVisits": "6.2万"
+    },
+    "Vidu": {
+      "link": "https://www.vidu.cn/",
+      "desc": [
+        "AI视频生"
+      ],
+      "monthlyVisits": "50.7万"
+    },
+    "绘蛙AI视频": {
+      "link": "https://www.ihuiwa.com/workspace/ai-video/custom-action",
+      "desc": [
+        "AI图生视频"
+      ],
+      "monthlyVisits": "23.9万"
+    },
+    "HeyGen": {
+      "link": "https://www.heygen.com/",
+      "desc": [
+        "AI数字人视频创作"
+      ],
+      "monthlyVisits": "642.2万"
+    },
+    "有言": {
+      "link": "https://www.youyan3d.com/platform/",
+      "desc": [
+        "AI视频创作/3D数字人生成"
+      ],
+      "monthlyVisits": "6.9万"
+    },
+    "巨日禄": {
+      "link": "https://ai.jurilu.com/#/home",
+      "desc": [
+        "AI动漫视频"
+      ],
+      "monthlyVisits": "1.8万"
+    },
+    "可灵AI": {
+      "link": "https://app.klingai.com/cn/",
+      "desc": [
+        "AI视频生成"
+      ],
+      "monthlyVisits": "1446.9万"
+    },
+    "即梦AI": {
+      "link": "https://jimeng.jianying.com/ai-tool/home",
+      "desc": [
+        "字节跳动推出一站式AI创作"
+      ],
+      "monthlyVisits": "650.8万"
+    },
+    "智谱清影": {
+      "link": "https://chatglm.cn/video",
+      "desc": [
+        "AI视频生成"
+      ],
+      "monthlyVisits": "187.2万"
+    },
+    "腾讯混元AI视频": {
+      "link": "https://video.hunyuan.tencent.com/login?redirect=/",
+      "desc": [
+        "腾讯 AI视频"
+      ],
+      "monthlyVisits": "17.1万"
+    },
+    "创一AI": {
+      "link": "https://www.creatifyone.com/",
+      "desc": [
+        "AI音视频创作/AI短片/AI播客"
+      ],
+      "monthlyVisits": "9.4千"
+    },
+    "KreadoAI": {
+      "link": "https://www.kreadoai.com/zh",
+      "desc": [
+        "AI数字人视频营销"
+      ],
+      "monthlyVisits": "25.6万"
+    },
+    "Runway": {
+      "link": "https://runwayml.com/",
+      "desc": [
+        "AI视频/绿幕抠除/视频生成/动态捕捉"
+      ],
+      "monthlyVisits": "747.5万"
+    },
+    "Pika": {
+      "link": "https://pika.art",
+      "desc": [
+        "Pika Labs AI视频生成和编辑"
+      ],
+      "monthlyVisits": "220万"
+    },
+    "海螺AI视频": {
+      "link": "https://hailuoai.video/",
+      "desc": [
+        "AI视频"
+      ],
+      "monthlyVisits": "1439.9万"
+    },
+    "通义万相AI视频": {
+      "link": "https://tongyi.aliyun.com/wanxiang/videoCreation",
+      "desc": [
+        "通义万相AI视频"
+      ],
+      "monthlyVisits": "83.8万"
+    },
+    "JoyPix": {
+      "link": "https://www.joypix.ai",
+      "desc": [
+        "AI数字人创作/声音克隆"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Sora": {
+      "link": "https://openai.com/sora/",
+      "desc": [
+        "OpenAI AI视频生成模型"
+      ],
+      "monthlyVisits": "6.4亿"
+    },
+    "Dream Machine": {
+      "link": "https://lumalabs.ai/dream-machine",
+      "desc": [
+        "AI视频生成"
+      ],
+      "monthlyVisits": "254.6万"
+    },
+    "妙播": {
+      "link": "https://admuse.qq.com/intelligent/live/page/index.html#/login",
+      "desc": [
+        "腾讯广告AI直播电商"
+      ],
+      "monthlyVisits": "8.1千"
+    },
+    "即创": {
+      "link": "https://aic.oceanengine.com/login",
+      "desc": [
+        "一站式AI智能创作"
+      ],
+      "monthlyVisits": "22.1万"
+    },
+    "Hedra": {
+      "link": "https://www.hedra.com/",
+      "desc": [
+        "AI对口型视频生成"
+      ],
+      "monthlyVisits": "355.2万"
+    },
+    "Vozo": {
+      "link": "https://www.vozo.ai/",
+      "desc": [
+        "多功能AI视频编辑"
+      ],
+      "monthlyVisits": "76.8万"
+    },
+    "Viggle": {
+      "link": "https://viggle.ai/home",
+      "desc": [
+        "AI生成可控的角色动态视频"
+      ],
+      "monthlyVisits": "308.1万"
+    },
+    "Tavus": {
+      "link": "https://www.tavus.io/",
+      "desc": [
+        "AI数字人克隆/AI视频实时对话"
+      ],
+      "monthlyVisits": "22.6万"
+    },
+    "阶跃视频": {
+      "link": "https://yuewen.cn/videos",
+      "desc": [
+        "AI视频生"
+      ],
+      "monthlyVisits": "59.6万"
+    },
+    "秒创": {
+      "link": "https://aigc.yizhentv.com",
+      "desc": [
+        "AIGC内容创作"
+      ],
+      "monthlyVisits": "2.7万"
+    },
+    "元镜": {
+      "link": "https://yuanjing.zeelin.cn/#/home",
+      "desc": [
+        "AI视频生成/多模态创意分镜"
+      ],
+      "monthlyVisits": "0"
+    },
+    "SkyReels": {
+      "link": "https://www.skyreels.ai/home",
+      "desc": [
+        "AI短剧创作"
+      ],
+      "monthlyVisits": "60.9万"
+    },
+    "MOKI": {
+      "link": "https://www.moki.cn/home",
+      "desc": [
+        "AI视频短片创作"
+      ],
+      "monthlyVisits": "1.2万"
+    },
+    "神笔马良": {
+      "link": "https://shenbi.maoyan.com/",
+      "desc": [
+        "AI影视"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Video Ocean": {
+      "link": "https://video.luchentech.com/zh-CN",
+      "desc": [
+        "多功能AI视频生成"
+      ],
+      "monthlyVisits": "1万"
+    },
+    "Flow Studio": {
+      "link": "https://flowgpt.com/flow-studio",
+      "desc": [
+        "AI长视频生成"
+      ],
+      "monthlyVisits": "279.8万"
+    },
+    "Vizard": {
+      "link": "https://vizard.ai/",
+      "desc": [
+        "将长视频转为社交短视频"
+      ],
+      "monthlyVisits": "217.7万"
+    },
+    "寻光": {
+      "link": "https://xunguang.com/",
+      "desc": [
+        "全流程AI视频创作"
+      ],
+      "monthlyVisits": "5.1千"
+    },
+    "Viva": {
+      "link": "https://vivago.ai/home",
+      "desc": [
+        "AI视频生成和图像创作"
+      ],
+      "monthlyVisits": "316.3万"
+    },
+    "Humva": {
+      "link": "https://humva.ai/",
+      "desc": [
+        "数字人生成/专属数字人"
+      ],
+      "monthlyVisits": "5.6万"
+    },
+    "D-ID": {
+      "link": "https://www.d-id.com",
+      "desc": [
+        "AI真人口播视频生成"
+      ],
+      "monthlyVisits": "126万"
+    },
+    "OneStory": {
+      "link": "https://onestory.art/dashboard",
+      "desc": [
+        "专业的AI故事生成"
+      ],
+      "monthlyVisits": "2.2万"
+    },
+    "腾讯智影": {
+      "link": "https://zenvideo.qq.com/",
+      "desc": [
+        "AI智能创作"
+      ],
+      "monthlyVisits": "23.8万"
+    },
+    "万兴播爆": {
+      "link": "https://virbo.wondershare.cn",
+      "desc": [
+        "AI数字人口播视频营销"
+      ],
+      "monthlyVisits": "1.4万"
+    },
+    "商汤": {
+      "link": "https://www.sensetime.com/cn",
+      "desc": [
+        "人物视频生成AI模型"
+      ],
+      "monthlyVisits": "19.7万"
+    },
+    "Etna": {
+      "link": "https://etna.7volcanoes.com/",
+      "desc": [
+        "AI文生视频"
+      ],
+      "monthlyVisits": "0"
+    },
+    "艺映AI": {
+      "link": "https://www.artink.art/",
+      "desc": [
+        "AI视频创作/文生视频/图生视频/视频转漫画"
+      ],
+      "monthlyVisits": "6.6千"
+    },
+    "LensGo": {
+      "link": "https://lensgo.ai/",
+      "desc": [
+        "AI视频创作/视频转动漫/替换3D人物"
+      ],
+      "monthlyVisits": "22.1万"
+    },
+    "必剪Studio": {
+      "link": "https://member.bilibili.com/york/bilibili-studio/home",
+      "desc": [
+        "B站免费AI数字分身定制/视频创作"
+      ],
+      "monthlyVisits": "840万"
+    },
+    "度加创作工具": {
+      "link": "https://aigc.baidu.com/",
+      "desc": [
+        "百度AIGC创作"
+      ],
+      "monthlyVisits": "12.6万"
+    },
+    "WinkStudio": {
+      "link": "https://wink.meitu.com/",
+      "desc": [
+        "美图 桌面端AI视频剪辑"
+      ],
+      "monthlyVisits": "5.3万"
+    },
+    "VMagic": {
+      "link": "https://www.vmagic.app/zh",
+      "desc": [
+        "AI视频/视频风格转换/换脸/照片舞蹈"
+      ],
+      "monthlyVisits": "0"
+    },
+    "讯飞虚拟人": {
+      "link": "https://virtual-man.xfyun.cn/",
+      "desc": [
+        "全栈式AI虚拟人应用服务"
+      ],
+      "monthlyVisits": "8.8千"
+    },
+    "飞影数字人": {
+      "link": "https://www.flyworks.live/",
+      "desc": [
+        "免费定制数字人"
+      ],
+      "monthlyVisits": "1万"
+    },
+    "Video Studio": {
+      "link": "https://www.tovideo.org/",
+      "desc": [
+        "在线AI视频制作"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Pixfun": {
+      "link": "https://app.pixfun.ai/home",
+      "desc": [
+        "一站式动画故事AI视频"
+      ],
+      "monthlyVisits": "5.3千"
+    },
+    "Decohere": {
+      "link": "https://www.decohere.ai/",
+      "desc": [
+        "AI视频生成/音频同步"
+      ],
+      "monthlyVisits": "24.7万"
+    },
+    "Opus Clip": {
+      "link": "https://www.opus.pro/",
+      "desc": [
+        "AI视频切片/长视频中提取片段"
+      ],
+      "monthlyVisits": "448.3万"
+    },
+    "Filmora": {
+      "link": "https://filmora.wondershare.com/",
+      "desc": [
+        "AI视频编辑"
+      ],
+      "monthlyVisits": "222.6万"
+    },
+    "Descript": {
+      "link": "https://www.descript.com/",
+      "desc": [
+        "AI视频编辑/编辑文字来剪辑音视频"
+      ],
+      "monthlyVisits": "313.7万"
+    },
+    "曦灵": {
+      "link": "https://xiling.cloud.baidu.com/",
+      "desc": [
+        "百度AI数字人/视频创作"
+      ],
+      "monthlyVisits": "2万"
+    },
+    "开拍": {
+      "link": "https://www.kaipai.com/home",
+      "desc": [
+        "美图AI口播视频制作"
+      ],
+      "monthlyVisits": "5.9万"
+    },
+    "Duix": {
+      "link": "https://duix.com/#/home",
+      "desc": [
+        "硅基智能的AI数字人"
+      ],
+      "monthlyVisits": "1.2万"
+    },
+    "场辞": {
+      "link": "https://trans.xinpianchang.com/",
+      "desc": [
+        "AI视频字幕制作"
+      ],
+      "monthlyVisits": "0"
+    },
+    "一起剪": {
+      "link": "https://www.yiqijian.com/",
+      "desc": [
+        "AI短视频创作/图文一键成片"
+      ],
+      "monthlyVisits": "1万"
+    },
+    "Spikes Studio": {
+      "link": "https://spikes.studio/",
+      "desc": [
+        "AI长视频切片剪辑为短视频"
+      ],
+      "monthlyVisits": "23万"
+    },
+    "Google Vids": {
+      "link": "https://workspace.google.com/products/vids",
+      "desc": [
+        "谷歌AI视频"
+      ],
+      "monthlyVisits": "2亿"
+    },
+    "DomoAI": {
+      "link": "https://domoai.app/",
+      "desc": [
+        "照片/视频动漫化"
+      ],
+      "monthlyVisits": "76.9万"
+    },
+    "Gatekeep": {
+      "link": "https://app.gatekeep.ai/auth/login",
+      "desc": [
+        "AI教学视频生成/目前免费/各种炫酷变换/数学物理问题解释视频"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Morph": {
+      "link": "https://www.morphstudio.com/",
+      "desc": [
+        "AI文本到视频生成"
+      ],
+      "monthlyVisits": "10.9万"
+    },
+    "Showrunner": {
+      "link": "https://www.showrunner.xyz/",
+      "desc": [
+        "动画视频剧集"
+      ],
+      "monthlyVisits": "2万"
+    },
+    "即构数智人": {
+      "link": "https://aigc.zego.im/#/MyHome",
+      "desc": [
+        "AI数字人创作"
+      ],
+      "monthlyVisits": "0"
+    },
+    "快剪辑": {
+      "link": "https://www.kuaijianji.com/",
+      "desc": [
+        "360旗下的AI视频剪辑/AI成片/AI数字人/智能添加字幕/去水印"
+      ],
+      "monthlyVisits": "1.4万"
+    },
+    "蝉镜": {
+      "link": "https://www.chanjing.cc/",
+      "desc": [
+        "数字人视频生成/内容获客"
+      ],
+      "monthlyVisits": "6.1万"
+    },
+    "闪剪": {
+      "link": "https://shanjian.tv/",
+      "desc": [
+        "AI数字人短视频"
+      ],
+      "monthlyVisits": "6.3万"
+    },
+    "Wonder Studio": {
+      "link": "https://wonderdynamics.com",
+      "desc": [
+        "CG角色制作动画/合成到真人场景"
+      ],
+      "monthlyVisits": "10.3万"
+    },
+    "Magicam": {
+      "link": "https://magicam.ai/",
+      "desc": [
+        "AI直播/视频换脸"
+      ],
+      "monthlyVisits": "7.9千"
+    },
+    "LTX Studio": {
+      "link": "https://ltx.studio/",
+      "desc": [
+        "AI电影制作/视频短片"
+      ],
+      "monthlyVisits": "168.9万"
+    },
+    "Clipfly": {
+      "link": "https://www.clipfly.ai/",
+      "desc": [
+        "一站式AI长视频制作/编辑"
+      ],
+      "monthlyVisits": "177.9万"
+    },
+    "Captions": {
+      "link": "https://www.captions.ai/",
+      "desc": [
+        "AI视频剪辑/制作"
+      ],
+      "monthlyVisits": "207.8万"
+    },
+    "Capsule": {
+      "link": "https://capsule.video/",
+      "desc": [
+        "在线视频剪辑/个人免费"
+      ],
+      "monthlyVisits": "5.3万"
+    },
+    "GoEnhance": {
+      "link": "https://www.goenhance.ai/",
+      "desc": [
+        "AI视频风格转换/画质增强"
+      ],
+      "monthlyVisits": "77.2万"
+    },
+    "InVideo AI": {
+      "link": "https://invideo.io/",
+      "desc": [
+        "AI视频创作和剪辑"
+      ],
+      "monthlyVisits": "866.6万"
+    },
+    "Unscreen": {
+      "link": "https://www.unscreen.com",
+      "desc": [
+        "AI视频背景移除"
+      ],
+      "monthlyVisits": "104.9万"
+    },
+    "EbSynth": {
+      "link": "https://ebsynth.com/",
+      "desc": [
+        "AI真人视频转化为油画风动画"
+      ],
+      "monthlyVisits": "4.2万"
+    },
+    "Artflow": {
+      "link": "https://app.artflow.ai/character-builder",
+      "desc": [
+        "AI生成视频动画"
+      ],
+      "monthlyVisits": "26.8万"
+    },
+    "Kaiber": {
+      "link": "https://www.kaiber.ai/superstudio/",
+      "desc": [
+        "图片/文字转视频"
+      ],
+      "monthlyVisits": "85.7万"
+    },
+    "Typeframes": {
+      "link": "https://www.revid.ai/",
+      "desc": [
+        "AI产品介绍视频"
+      ],
+      "monthlyVisits": "132.9万"
+    },
+    "DreamFace": {
+      "link": "https://dreamfaceapp.com",
+      "desc": [
+        "让图片动起来"
+      ],
+      "monthlyVisits": "123.4万"
+    },
+    "Mootion": {
+      "link": "https://mootion.com/",
+      "desc": [
+        "AI原生3D动画创作"
+      ],
+      "monthlyVisits": "90.1万"
+    },
+    "PixVerse": {
+      "link": "https://app.pixverse.ai/",
+      "desc": [
+        "AI视频生成"
+      ],
+      "monthlyVisits": "1024万"
+    },
+    "来画": {
+      "link": "https://www.laihua.com/",
+      "desc": [
+        "动画和数字人生成"
+      ],
+      "monthlyVisits": "5.8万"
+    },
+    "奇妙元": {
+      "link": "https://weta365.com/conduct",
+      "desc": [
+        "AI数字人视频生成"
+      ],
+      "monthlyVisits": "6.9千"
+    },
+    "绘影字幕": {
+      "link": "https://huiyingzimu.com/",
+      "desc": [
+        "一键在线自动为视频加字幕"
+      ],
+      "monthlyVisits": "21.3万"
+    },
+    "Fliki": {
+      "link": "https://fliki.ai/",
+      "desc": [
+        "文字转视频并配音"
+      ],
+      "monthlyVisits": "191.4万"
+    },
+    "Anylang.ai": {
+      "link": "https://anylang.ai/",
+      "desc": [
+        "视频翻译/保持音色和口型"
+      ],
+      "monthlyVisits": "0"
+    }
+  },
+  "AIPPT": {
+    "AiPPT": {
+      "link": "https://www.aippt.cn/",
+      "desc": [
+        "AI生成PPT"
+      ],
+      "monthlyVisits": "44.4万"
+    },
+    "讯飞智文": {
+      "link": "https://zhiwen.xfyun.cn/home",
+      "desc": [
+        "生成PPT和Word"
+      ],
+      "monthlyVisits": "26.8万"
+    },
+    "咔片PPT": {
+      "link": "https://www.cappt.cc/",
+      "desc": [
+        "AI PPT制作/美化/全流程自动化"
+      ],
+      "monthlyVisits": "6.2万"
+    },
+    "文多多AiPPT": {
+      "link": "https://docmee.cn/",
+      "desc": [
+        "AI一键PPT/支持AI配图/智能资料整合"
+      ],
+      "monthlyVisits": "2.8万"
+    },
+    "笔格AIPPT": {
+      "link": "https://www.bigppt.cn/",
+      "desc": [
+        "AI PPT生成"
+      ],
+      "monthlyVisits": "3万"
+    },
+    "博思AIPPT": {
+      "link": "https://pptgo.cn/",
+      "desc": [
+        "在线AI生成PPT"
+      ],
+      "monthlyVisits": "9.7万"
+    },
+    "iSlide AIPPT": {
+      "link": "https://www.islide.cc/",
+      "desc": [
+        "AI一键设计PPT"
+      ],
+      "monthlyVisits": "22.1万"
+    },
+    "稿定PPT": {
+      "link": "https://www.gaoding.com/templates-ppt",
+      "desc": [
+        "PPT模板资源库"
+      ],
+      "monthlyVisits": "261.4万"
+    },
+    "Gamma": {
+      "link": "https://gamma.app",
+      "desc": [
+        "AI幻灯片演示生成工具"
+      ],
+      "monthlyVisits": "2610.4万"
+    },
+    "清言PPT": {
+      "link": "https://chatglm.cn/main/gdetail/65d2f07bb2c10188f885bd89?lang=zh",
+      "desc": [
+        "PPT智能体"
+      ],
+      "monthlyVisits": "187.2万"
+    },
+    "百度文库": {
+      "link": "https://wenku.baidu.com/ndlaunch/browse/chat",
+      "desc": [
+        "一站式智能文档助手"
+      ],
+      "monthlyVisits": "1993.5万"
+    },
+    "Napkin": {
+      "link": "https://www.napkin.ai",
+      "desc": [
+        "文本内容快速转换成演示图像"
+      ],
+      "monthlyVisits": "398.8万"
+    },
+    "VisDoc": {
+      "link": "https://www.visdoc.cn/",
+      "desc": [
+        "AI文生图表/生成柱状图/折线图/饼图"
+      ],
+      "monthlyVisits": "1.3万"
+    },
+    "美图AI PPT": {
+      "link": "https://ppt.designkit.com/",
+      "desc": [
+        "免费在线AI生成PPT设计"
+      ],
+      "monthlyVisits": "9.7千"
+    },
+    "万兴智演": {
+      "link": "https://zhiyan.wondershare.cn/",
+      "desc": [
+        "AI PPT/演示制作软件"
+      ],
+      "monthlyVisits": "0"
+    },
+    "万知": {
+      "link": "https://www.wanzhi.com/",
+      "desc": [
+        "一站式AI文档阅读/PPT创作"
+      ],
+      "monthlyVisits": "2万"
+    },
+    "歌者PPT": {
+      "link": "https://gezhe.com/",
+      "desc": [
+        "AI PPT生成"
+      ],
+      "monthlyVisits": "9.6千"
+    },
+    "ChatBA": {
+      "link": "https://www.chatba.com",
+      "desc": [
+        "AI PPT生成"
+      ],
+      "monthlyVisits": "8.8千"
+    },
+    "Tome": {
+      "link": "https://tome.app",
+      "desc": [
+        "叙事幻灯片"
+      ],
+      "monthlyVisits": "77.4万"
+    },
+    "Decktopus AI": {
+      "link": "https://www.decktopus.com",
+      "desc": [
+        "在线PPT生成器"
+      ],
+      "monthlyVisits": "39.4万"
+    },
+    "Powerpresent AI": {
+      "link": "https://powerpresent.ai",
+      "desc": [
+        "AI创建精美的演示稿"
+      ],
+      "monthlyVisits": "7.7千"
+    },
+    "希沃白板": {
+      "link": "https://b.seewo.com/product/5.html",
+      "desc": [
+        "教学设计/AI课件生成器"
+      ],
+      "monthlyVisits": "0"
+    },
+    "秒出PPT": {
+      "link": "https://10sppt.com/pptx",
+      "desc": [
+        "一键生成PPT/辅助编辑"
+      ],
+      "monthlyVisits": "3.3万"
+    },
+    "GAIPPT": {
+      "link": "https://www.gaippt.com/",
+      "desc": [
+        "智能美化PPT/一键美化"
+      ],
+      "monthlyVisits": "1.8万"
+    },
+    "beautiful.ai": {
+      "link": "https://www.beautiful.ai",
+      "desc": [
+        "一键PPT生成和设计"
+      ],
+      "monthlyVisits": "135.9万"
+    },
+    "ChatPPT": {
+      "link": "https://www.chat-ppt.com",
+      "desc": [
+        "一键生成PPT/智能排版美化"
+      ],
+      "monthlyVisits": "7.2万"
+    },
+    "轻竹办公": {
+      "link": "https://qzoffice.com",
+      "desc": [
+        "在线生成/设计PPT"
+      ],
+      "monthlyVisits": "5万"
+    },
+    "Chronicle": {
+      "link": "https://chroniclehq.com",
+      "desc": [
+        "AI PPT创作"
+      ],
+      "monthlyVisits": "3.7万"
+    },
+    "Presentations.AI": {
+      "link": "https://www.presentations.ai",
+      "desc": [
+        "PPT排版制作"
+      ],
+      "monthlyVisits": "163.7万"
+    },
+    "SlidesAI": {
+      "link": "https://www.slidesai.io",
+      "desc": [
+        "AI创建PPT"
+      ],
+      "monthlyVisits": "67.6万"
+    },
+    "auxi": {
+      "link": "https://www.auxi.ai",
+      "desc": [
+        "AI生成PPT和文档"
+      ],
+      "monthlyVisits": "1.5万"
+    },
+    "职得PPT": {
+      "link": "https://ai.lgppt.cn/",
+      "desc": [
+        "免费AIPPT生成"
+      ],
+      "monthlyVisits": "0"
+    }
+  },
+  "AI文档": {
+    "txyz": {
+      "link": "https://www.txyz.ai/",
+      "desc": [
+        "AI帮你读文献/学术研究更轻松"
+      ],
+      "monthlyVisits": "29.8万"
+    },
+    "包阅AI": {
+      "link": "https://baoyueai.com/channel",
+      "desc": [
+        "智能阅读助手/高效处理文档"
+      ],
+      "monthlyVisits": "6.5万"
+    },
+    "百度文库AI助手": {
+      "link": "https://wenku.baidu.com/ndlaunch/browse/chat",
+      "desc": [
+        "文心一言驱动/智能文档助手"
+      ],
+      "monthlyVisits": "1993.5万"
+    },
+    "Doc2X": {
+      "link": "https://doc2x.noedgeai.com/",
+      "desc": [
+        "AI识别转换文档/支持翻译"
+      ],
+      "monthlyVisits": "18.9万"
+    },
+    "万知": {
+      "link": "https://www.wanzhi.com/",
+      "desc": [
+        "AI文档阅读/PPT创作工作台"
+      ],
+      "monthlyVisits": "2万"
+    },
+    "腾讯文档智能助手": {
+      "link": "https://docs.qq.com/desktop/",
+      "desc": [
+        "AI文档生成/智能辅助编辑"
+      ],
+      "monthlyVisits": "3164万"
+    },
+    "Cubox": {
+      "link": "https://cubox.pro",
+      "desc": [
+        "AI阅读学习/信息收集管理"
+      ],
+      "monthlyVisits": "16.7万"
+    },
+    "Quivr": {
+      "link": "https://quivr.app",
+      "desc": [
+        "开源知识库/构建第二大脑"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Coda AI": {
+      "link": "https://coda.io",
+      "desc": [
+        "AI写作文档助手/类似Notion"
+      ],
+      "monthlyVisits": "298.2万"
+    },
+    "腾讯问卷": {
+      "link": "https://wj.qq.com/ai/generate.html",
+      "desc": [
+        "AI生成调查问卷/免费工具"
+      ],
+      "monthlyVisits": "118.3万"
+    },
+    "匡优AI": {
+      "link": "https://www.youkaoshi.cn/ai-smart.html",
+      "desc": [
+        "AI智能出题/快速生成试题"
+      ],
+      "monthlyVisits": "1.4万"
+    },
+    "字语智能": {
+      "link": "https://ziyuai.com/",
+      "desc": [
+        "一站式综合平台"
+      ],
+      "monthlyVisits": "0"
+    },
+    "星火文档问答": {
+      "link": "https://xinghuo.xfyun.cn/desk",
+      "desc": [
+        "AI文档知识库问答助手"
+      ],
+      "monthlyVisits": "66.1万"
+    },
+    "PMAI": {
+      "link": "https://www.pm-ai.cn/",
+      "desc": [
+        "专为产品经理设计的AI助手"
+      ],
+      "monthlyVisits": "1.3万"
+    },
+    "PDF.ai": {
+      "link": "https://pdf.ai/",
+      "desc": [
+        "AI智能PDF阅读/文档摘要"
+      ],
+      "monthlyVisits": "34万"
+    },
+    "知我AI": {
+      "link": "https://knowme.xiaoduoai.com/",
+      "desc": [
+        "智能阅读机器人/总结各类内容"
+      ],
+      "monthlyVisits": "0"
+    },
+    "印象AI": {
+      "link": "https://www.yinxiang.com/",
+      "desc": [
+        "AI知识信息管理功能"
+      ],
+      "monthlyVisits": "133.2万"
+    },
+    "Craft AI Assistant": {
+      "link": "https://www.craft.do",
+      "desc": [
+        "AI文档创作助手工具"
+      ],
+      "monthlyVisits": "64.3万"
+    },
+    "Humata": {
+      "link": "https://www.humata.ai",
+      "desc": [
+        "AI文档分析/阅读问答"
+      ],
+      "monthlyVisits": "70.5万"
+    },
+    "ChatDOC": {
+      "link": "https://chatdoc.com",
+      "desc": [
+        "文档阅读/提取总结摘要"
+      ],
+      "monthlyVisits": "13.8万"
+    },
+    "PandaGPT": {
+      "link": "https://panda-gpt.github.io/",
+      "desc": [
+        "AI文档要点总结工具"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Rossum.ai": {
+      "link": "https://rossum.ai",
+      "desc": [
+        "现代化AI文档处理平台"
+      ],
+      "monthlyVisits": "5.6万"
+    },
+    "Super AI": {
+      "link": "https://super.ai",
+      "desc": [
+        "AI复杂文档自动处理转换"
+      ],
+      "monthlyVisits": "11.9万"
+    }
+  },
+  "AI对话聊天": {
+    "豆包": {
+      "link": "https://www.doubao.com/",
+      "desc": [
+        "字节跳动免费AI智能助手"
+      ],
+      "monthlyVisits": "5667.1万"
+    },
+    "问小白": {
+      "link": "https://www.wenxiaobai.com/",
+      "desc": [
+        "元石科技AI助手/支持DeepSeek"
+      ],
+      "monthlyVisits": "662.5万"
+    },
+    "讯飞星火": {
+      "link": "https://xinghuo.xfyun.cn/",
+      "desc": [
+        "AI智能助手/支持PPT生成"
+      ],
+      "monthlyVisits": "66.1万"
+    },
+    "逗逗": {
+      "link": "https://www.doudou.fun/",
+      "desc": [
+        "AI游戏陪玩/支持热门游戏"
+      ],
+      "monthlyVisits": "5.6万"
+    },
+    "ChatGPT": {
+      "link": "https://chatgpt.com/",
+      "desc": [
+        "OpenAI旗下AI对话工具"
+      ],
+      "monthlyVisits": "54.9亿"
+    },
+    "Claude": {
+      "link": "https://claude.ai/",
+      "desc": [
+        "Anthropic对话式AI助手"
+      ],
+      "monthlyVisits": "9968.6万"
+    },
+    "DeepSeek": {
+      "link": "https://chat.deepseek.com/",
+      "desc": [
+        "幻方量化开源大模型聊天"
+      ],
+      "monthlyVisits": "4.1亿"
+    },
+    "Qwen Chat": {
+      "link": "https://www.tongyi.com/",
+      "desc": [
+        "阿里通义Qwen"
+      ],
+      "monthlyVisits": "3956.3万"
+    },
+    "Kimi智能助手": {
+      "link": "https://www.kimi.com/",
+      "desc": [
+        "能深度思考的AI助手"
+      ],
+      "monthlyVisits": "1043.3万"
+    },
+    "智谱清言": {
+      "link": "https://chatglm.cn/main/alltoolsdetail?lang=zh",
+      "desc": [
+        "智谱 全能AI助手"
+      ],
+      "monthlyVisits": "187.2万"
+    },
+    "腾讯元宝": {
+      "link": "https://yuanbao.tencent.com/chat/naQivTmsDa",
+      "desc": [
+        "腾讯 免费AI助手"
+      ],
+      "monthlyVisits": "2298.4万"
+    },
+    "Gemini": {
+      "link": "https://gemini.google.com/",
+      "desc": [
+        "Google AI聊天机器人"
+      ],
+      "monthlyVisits": "5.3亿"
+    },
+    "bigmodel": {
+      "link": "https://open.bigmodel.cn/",
+      "desc": [
+        "智谱面向全球的模型平台"
+      ],
+      "monthlyVisits": "18.5万"
+    },
+    "Grok": {
+      "link": "https://x.ai/grok",
+      "desc": [
+        "马斯克xAI人工智能助手"
+      ],
+      "monthlyVisits": "1745.8万"
+    },
+    "Poe": {
+      "link": "https://poe.com/",
+      "desc": [
+        "Quora 问答机器人"
+      ],
+      "monthlyVisits": "1867.4万"
+    },
+    "MiniMax": {
+      "link": "https://www.minimaxi.com/",
+      "desc": [
+        "MiniMax AI智能问答助手"
+      ],
+      "monthlyVisits": "64.7万"
+    },
+    "华为小艺": {
+      "link": "https://xiaoyi.huawei.com/",
+      "desc": [
+        "小艺AI助手网页端"
+      ],
+      "monthlyVisits": "36.2万"
+    },
+    "文心一言": {
+      "link": "https://yiyan.baidu.com/",
+      "desc": [
+        "百度文心大模型AI对话"
+      ],
+      "monthlyVisits": "830.2万"
+    },
+    "阶跃AI": {
+      "link": "https://chat.stepfun.com/",
+      "desc": [
+        "阶跃星辰多模态AI聊天"
+      ],
+      "monthlyVisits": "NaN"
+    },
+    "百小应": {
+      "link": "https://ying.baichuan-ai.com/chat",
+      "desc": [
+        "百川智能 免费助手"
+      ],
+      "monthlyVisits": "6.7万"
+    },
+    "天工AI": {
+      "link": "https://www.tiangong.cn/",
+      "desc": [
+        "昆仑万维 AI助手"
+      ],
+      "monthlyVisits": "88.7万"
+    },
+    "Character.AI": {
+      "link": "https://character.ai/",
+      "desc": [
+        "创建虚拟角色并对话"
+      ],
+      "monthlyVisits": "1.9亿"
+    },
+    "Meta AI助手": {
+      "link": "https://www.meta.ai/",
+      "desc": [
+        "Meta 免费AI聊天"
+      ],
+      "monthlyVisits": "1363.4万"
+    },
+    "Koko AI": {
+      "link": "https://www.kokocares.org/",
+      "desc": [
+        "Seele AI+3D情感陪伴"
+      ],
+      "monthlyVisits": "1.9万"
+    },
+    "Me.bot": {
+      "link": "https://me.bot/",
+      "desc": [
+        "心识宇宙个性化AI伴侣"
+      ],
+      "monthlyVisits": "NaN"
+    },
+    "Saylo": {
+      "link": "https://www.sayloai.com/",
+      "desc": [
+        "AI故事角色扮演游戏"
+      ],
+      "monthlyVisits": "26.8万"
+    },
+    "CueMe": {
+      "link": "https://cueme.cn/",
+      "desc": [
+        "夸克AI对话助手/长文写作"
+      ],
+      "monthlyVisits": "2.2万"
+    },
+    "造梦次元": {
+      "link": "https://ciyuan.ideaflow.pro/",
+      "desc": [
+        "AI互动内容/虚拟角色"
+      ],
+      "monthlyVisits": "0"
+    },
+    "百度AI助手": {
+      "link": "https://chat.baidu.com/search",
+      "desc": [
+        "百度多场景AI智能体"
+      ],
+      "monthlyVisits": "2608.1万"
+    },
+    "商量SenseChat": {
+      "link": "https://chat.sensetime.com/",
+      "desc": [
+        "商汤科技大语言模型"
+      ],
+      "monthlyVisits": "3万"
+    },
+    "紫东太初": {
+      "link": "https://taichu-web.ia.ac.cn/#/",
+      "desc": [
+        "中科院千亿参数全模态大模型"
+      ],
+      "monthlyVisits": "2.3万"
+    },
+    "冒泡鸭": {
+      "link": "https://maopaoya.com/",
+      "desc": [
+        "阶跃星辰AI聊天智能体"
+      ],
+      "monthlyVisits": "6.5千"
+    },
+    "Cici": {
+      "link": "https://www.cici.com/",
+      "desc": [
+        "豆包国际版/字节海外"
+      ],
+      "monthlyVisits": "162.8万"
+    },
+    "mistral": {
+      "link": "https://chat.mistral.ai/chat",
+      "desc": [
+        "Mistral AI对话助手"
+      ],
+      "monthlyVisits": "597.1万"
+    },
+    "钉钉·个人版": {
+      "link": "https://www.dingtalk.com/",
+      "desc": [
+        "钉钉个人版/内置AI助手"
+      ],
+      "monthlyVisits": "1592.5万"
+    },
+    "Wanderboat": {
+      "link": "https://wanderboat.ai/",
+      "desc": [
+        "硅谷UTA AI旅行助手"
+      ],
+      "monthlyVisits": "228.7万"
+    },
+    "MChat": {
+      "link": "https://www.mchat.com/#/home",
+      "desc": [
+        "基于孟子GPT的AI对话"
+      ],
+      "monthlyVisits": "5.6千"
+    },
+    "Luca": {
+      "link": "https://luca.cn/home",
+      "desc": [
+        "面壁智能千亿多模态助手"
+      ],
+      "monthlyVisits": "0"
+    },
+    "元象XChat": {
+      "link": "https://www.xverse.cn/",
+      "desc": [
+        "元象XVERSE大模型聊天"
+      ],
+      "monthlyVisits": "1.3万"
+    },
+    "魔搭GPT（ModelScopeGPT）": {
+      "link": "https://www.modelscope.cn/studios/damo/ModelScopeGPT",
+      "desc": [
+        "阿里达摩院多模态智能助手"
+      ],
+      "monthlyVisits": "185.5万"
+    },
+    "Forefront": {
+      "link": "https://www.forefront.ai/",
+      "desc": [
+        "提供多种AI模型的聊天"
+      ],
+      "monthlyVisits": "8.9万"
+    },
+    "HuggingChat": {
+      "link": "https://huggingface.co/chat/",
+      "desc": [
+        "HuggingFace在线聊天机器人"
+      ],
+      "monthlyVisits": "2390.5万"
+    },
+    "TigerBot": {
+      "link": "https://www.tigerbot.com/",
+      "desc": [
+        "虎博科技AI对话聊天机器人"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Stable Chat": {
+      "link": "https://chat.stability.ai/",
+      "desc": [
+        "Stability AI免费聊天网站"
+      ],
+      "monthlyVisits": "0"
+    },
+    "ColossalChat": {
+      "link": "https://chat.colossalai.org/",
+      "desc": [
+        "Colossal-AI开源ChatGPT替代"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Jasper Chat": {
+      "link": "https://www.jasper.ai/",
+      "desc": [
+        "Jasper内容创作者AI聊天"
+      ],
+      "monthlyVisits": "104.1万"
+    },
+    "YouChat AI": {
+      "link": "https://you.com/",
+      "desc": [
+        "AI搜索对话工具"
+      ],
+      "monthlyVisits": "376.3万"
+    },
+    "writesonic": {
+      "link": "https://writesonic.com/chat",
+      "desc": [
+        "WriteSonic出品ChatGPT竞品"
+      ],
+      "monthlyVisits": "125万"
+    },
+    "Replika": {
+      "link": "https://replika.ai/",
+      "desc": [
+        "AI对话陪伴工具"
+      ],
+      "monthlyVisits": "29.2万"
+    },
+    "Open Assistant": {
+      "link": "https://projects.laion.ai/Open-Assistant/",
+      "desc": [
+        "免费开源对话式AI"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Pi": {
+      "link": "https://pi.ai/onboarding",
+      "desc": [
+        "DeepMind联创AI聊天机器人"
+      ],
+      "monthlyVisits": "189万"
+    },
+    "Inworld": {
+      "link": "https://inworld.ai/",
+      "desc": [
+        "开发创建AI虚拟角色互动"
+      ],
+      "monthlyVisits": "17.7万"
+    },
+    "360智脑": {
+      "link": "https://ai.360.cn/",
+      "desc": [
+        "360搜索AI对话聊天机器人"
+      ],
+      "monthlyVisits": "1.2万"
+    },
+    "Neeva": {
+      "link": "https://neeva.com/",
+      "desc": [
+        "集成AI问答的搜索引擎"
+      ],
+      "monthlyVisits": "4.6万"
+    },
+    "写作猫": {
+      "link": "https://xiezuocat.com/",
+      "desc": [
+        "秘塔写作猫AI对话聊天"
+      ],
+      "monthlyVisits": "31.1万"
+    }
+  },
+  "AI音频工具": {
+    "魔音工坊": {
+      "link": "https://www.moyin.com/",
+      "desc": [
+        "AI配音工具/媲美真人声音"
+      ],
+      "monthlyVisits": "10.3万"
+    },
+    "讯飞智作": {
+      "link": "https://peiyin.xunfei.cn/",
+      "desc": [
+        "科大讯飞AI转语音配音"
+      ],
+      "monthlyVisits": "10.4万"
+    },
+    "听脑AI": {
+      "link": "https://itingnao.com/",
+      "desc": [
+        "人工智能语音录音助手"
+      ],
+      "monthlyVisits": "3.1万"
+    },
+    "Suno": {
+      "link": "https://suno.com/",
+      "desc": [
+        "高质量AI音乐创作平台"
+      ],
+      "monthlyVisits": "5373.6万"
+    },
+    "海绵音乐": {
+      "link": "https://www.haimian.com/",
+      "desc": [
+        "字节跳动免费AI音乐创作"
+      ],
+      "monthlyVisits": "8.9万"
+    },
+    "音疯": {
+      "link": "https://www.mureka.cn/",
+      "desc": [
+        "昆仑万维AI音乐创作平台"
+      ],
+      "monthlyVisits": "1.3万"
+    },
+    "琅琅配音": {
+      "link": "https://lang123.top/",
+      "desc": [
+        "智能文本转语音工具"
+      ],
+      "monthlyVisits": "2.6万"
+    },
+    "Noiz AI": {
+      "link": "https://noiz.ai/",
+      "desc": [
+        "AI配音/支持声音克隆"
+      ],
+      "monthlyVisits": "14.5万"
+    },
+    "MiniMax Audio": {
+      "link": "https://www.minimaxi.com/",
+      "desc": [
+        "MiniMax AI语音合成工具"
+      ],
+      "monthlyVisits": "64.7万"
+    },
+    "Mureka": {
+      "link": "https://www.mureka.ai/",
+      "desc": [
+        "昆仑万维AI音乐商用创作"
+      ],
+      "monthlyVisits": "218.8万"
+    },
+    "天谱乐": {
+      "link": "https://www.tianpuyue.cn/",
+      "desc": [
+        "唱鸭多模态音乐生成大模型"
+      ],
+      "monthlyVisits": "1.8万"
+    },
+    "喜马拉雅": {
+      "link": "https://aigc.ximalaya.com/accreat/home",
+      "desc": [
+        "喜马拉雅一站式AI音频创作"
+      ],
+      "monthlyVisits": "3万"
+    },
+    "简单听记": {
+      "link": "https://pan.baidu.com/",
+      "desc": [
+        "百度网盘AI语音转文字"
+      ],
+      "monthlyVisits": "8629.1万"
+    },
+    "智慧办公": {
+      "link": "https://www.iflyrec.com/zhuanwenzi.html",
+      "desc": [
+        "科大讯飞在线AI语音转文字"
+      ],
+      "monthlyVisits": "52.1万"
+    },
+    "MemoAI": {
+      "link": "https://memo.ac/",
+      "desc": [
+        "免费AI语音转文字工具"
+      ],
+      "monthlyVisits": "4.9万"
+    },
+    "Reecho睿声": {
+      "link": "https://reecho.ai/",
+      "desc": [
+        "超拟真中英文AI语音克隆"
+      ],
+      "monthlyVisits": "1.1万"
+    },
+    "Udio": {
+      "link": "https://www.udio.com/",
+      "desc": [
+        "免费AI音乐创作/月生成1200首"
+      ],
+      "monthlyVisits": "332.2万"
+    },
+    "网易天音": {
+      "link": "https://tianyin.163.com",
+      "desc": [
+        "网易一站式AI音乐创作"
+      ],
+      "monthlyVisits": "4.9万"
+    },
+    "TME Studio": {
+      "link": "https://y.qq.com/tme_studio/index.html#",
+      "desc": [
+        "腾讯音乐智能音乐创作助手"
+      ],
+      "monthlyVisits": "310.2万"
+    },
+    "Lyrics Into Song AI": {
+      "link": "https://lyricsintosong.com/",
+      "desc": [
+        "在线AI音乐创作/输入歌词"
+      ],
+      "monthlyVisits": "12.7万"
+    },
+    "Stable Audio": {
+      "link": "https://stableaudio.com/",
+      "desc": [
+        "Stability AI音乐生成工具"
+      ],
+      "monthlyVisits": "5.7万"
+    },
+    "TextToSpeech": {
+      "link": "https://texttospeech.io/",
+      "desc": [
+        "完全免费AI文字转语音"
+      ],
+      "monthlyVisits": "16.8万"
+    },
+    "TTSMaker": {
+      "link": "https://ttsmaker.com/",
+      "desc": [
+        "马克配音免费AI文字转语音"
+      ],
+      "monthlyVisits": "251.2万"
+    },
+    "LOVO AI": {
+      "link": "https://lovo.ai",
+      "desc": [
+        "AI人声文本转语音生成"
+      ],
+      "monthlyVisits": "50.4万"
+    },
+    "Uberduck": {
+      "link": "https://uberduck.ai/",
+      "desc": [
+        "开源AI语音生成/5000种声音"
+      ],
+      "monthlyVisits": "38.9万"
+    },
+    "ElevenLabs": {
+      "link": "https://elevenlabs.io/",
+      "desc": [
+        "AI文本转语音/支持28种语言"
+      ],
+      "monthlyVisits": "2191.7万"
+    },
+    "Sonauto": {
+      "link": "https://sonauto.ai/",
+      "desc": [
+        "免费AI音乐生成歌曲创作"
+      ],
+      "monthlyVisits": "18.4万"
+    },
+    "天工SkyMusic": {
+      "link": "https://www.tiangong.cn/",
+      "desc": [
+        "昆仑万维国内首个AI音乐"
+      ],
+      "monthlyVisits": "88.7万"
+    },
+    "大饼AI变声": {
+      "link": "https://www.dabing.ai/",
+      "desc": [
+        "免费专业AI变声/实时语音"
+      ],
+      "monthlyVisits": "NaN"
+    },
+    "Supertone Shift": {
+      "link": "https://supertone.ai/",
+      "desc": [
+        "AI驱动实时语音变换软件"
+      ],
+      "monthlyVisits": "29.5万"
+    },
+    "Riffusion": {
+      "link": "https://www.riffusion.com",
+      "desc": [
+        "AI生成不同风格音乐/开源"
+      ],
+      "monthlyVisits": "477.3万"
+    },
+    "Adobe Podcast": {
+      "link": "https://podcast.adobe.com",
+      "desc": [
+        "Adobe在线AI音频录制编辑"
+      ],
+      "monthlyVisits": "783.2万"
+    },
+    "刺鸟配音": {
+      "link": "https://www.icnpy.com/",
+      "desc": [
+        "刺鸟科技专业AI配音工具"
+      ],
+      "monthlyVisits": "6.3千"
+    },
+    "Wondercraft": {
+      "link": "https://www.wondercraft.ai/",
+      "desc": [
+        "AI音频内容生成/创建播客"
+      ],
+      "monthlyVisits": "31.6万"
+    },
+    "Fryderyk": {
+      "link": "https://fryderyk.ai/",
+      "desc": [
+        "AI音乐创作/集成多种乐器"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Voicenotes": {
+      "link": "https://voicenotes.com/",
+      "desc": [
+        "AI驱动的语音笔记工具"
+      ],
+      "monthlyVisits": "19.4万"
+    },
+    "OptimizerAI": {
+      "link": "https://optimizer.ai/",
+      "desc": [
+        "AI声音效果生成工具"
+      ],
+      "monthlyVisits": "NaN"
+    },
+    "ACE Studio": {
+      "link": "https://ace-studio.timedomain.cn",
+      "desc": [
+        "AI歌声合成/输入歌词旋律"
+      ],
+      "monthlyVisits": "0"
+    },
+    "蓝藻AI": {
+      "link": "https://aigc.unisound.com/home",
+      "desc": [
+        "云知声AI配音声音克隆"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Deepgram": {
+      "link": "https://deepgram.com/",
+      "desc": [
+        "快速低成本AI语音文本互转"
+      ],
+      "monthlyVisits": "82.3万"
+    },
+    "Audiobox": {
+      "link": "https://audiobox.metademolab.com/",
+      "desc": [
+        "Meta免费开源AI语音生成"
+      ],
+      "monthlyVisits": "4.4万"
+    },
+    "RESEMBLE.AI": {
+      "link": "https://www.resemble.ai",
+      "desc": [
+        "AI人声生成工具"
+      ],
+      "monthlyVisits": "65.8万"
+    },
+    "IBM Watson文字转语音": {
+      "link": "https://www.ibm.com/cloud/watson-text-to-speech",
+      "desc": [
+        "IBM Watson文字转语音"
+      ],
+      "monthlyVisits": "1427.5万"
+    },
+    "FakeYou": {
+      "link": "https://fakeyou.com",
+      "desc": [
+        "Deep Fake文本转语音"
+      ],
+      "monthlyVisits": "85.5万"
+    },
+    "BGM猫": {
+      "link": "https://bgmcat.com/home",
+      "desc": [
+        "灵动音科技AI智能生成BGM"
+      ],
+      "monthlyVisits": "0"
+    },
+    "快转字幕": {
+      "link": "https://www.kzzimu.com/",
+      "desc": [
+        "AI语音视频转文字字幕"
+      ],
+      "monthlyVisits": "9.7千"
+    },
+    "悦音配音": {
+      "link": "https://yueyin.zhipianbang.com/",
+      "desc": [
+        "AI智能在线配音语音合成"
+      ],
+      "monthlyVisits": "1.1万"
+    },
+    "音虫": {
+      "link": "https://www.soundbug.com/",
+      "desc": [
+        "内置AI音乐编曲制作工具"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Mubert": {
+      "link": "https://mubert.com",
+      "desc": [
+        "AI BGM背景音乐生成"
+      ],
+      "monthlyVisits": "33.3万"
+    },
+    "beatoven.ai": {
+      "link": "https://www.beatoven.ai",
+      "desc": [
+        "免版税AI音乐创建平台"
+      ],
+      "monthlyVisits": "31.3万"
+    },
+    "BeatBot": {
+      "link": "https://beatbot.fm/",
+      "desc": [
+        "输入文本快速生成歌曲音乐"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Audo Studio": {
+      "link": "https://audo.ai",
+      "desc": [
+        "AI音频清洗/噪音消除平衡"
+      ],
+      "monthlyVisits": "15.4万"
+    },
+    "NaturalReader": {
+      "link": "https://www.naturalreaders.com",
+      "desc": [
+        "AI文本转语音工具"
+      ],
+      "monthlyVisits": "476.9万"
+    },
+    "AssemblyAI": {
+      "link": "https://www.assemblyai.com",
+      "desc": [
+        "转录理解语音的AI模型"
+      ],
+      "monthlyVisits": "55.7万"
+    },
+    "LALAL.AI": {
+      "link": "https://www.lalal.ai",
+      "desc": [
+        "AI人声乐器分离提取"
+      ],
+      "monthlyVisits": "244.3万"
+    },
+    "Krisp": {
+      "link": "https://krisp.ai",
+      "desc": [
+        "AI噪音消除工具"
+      ],
+      "monthlyVisits": "131.5万"
+    },
+    "Play.ht": {
+      "link": "https://play.ht",
+      "desc": [
+        "超真实在线AI语音生成"
+      ],
+      "monthlyVisits": "222.6万"
+    },
+    "Murf AI": {
+      "link": "https://murf.ai",
+      "desc": [
+        "AI文本转语音生成工具"
+      ],
+      "monthlyVisits": "119.4万"
+    },
+    "Lemonaid": {
+      "link": "https://lemonaid.ai/",
+      "desc": [
+        "AI音乐生成工具"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Soundraw": {
+      "link": "https://soundraw.io",
+      "desc": [
+        "AI音乐生成工具"
+      ],
+      "monthlyVisits": "59万"
+    },
+    "Boomy": {
+      "link": "https://boomy.com",
+      "desc": [
+        "AI快速生成原创音乐平台"
+      ],
+      "monthlyVisits": "28.1万"
+    },
+    "Typecast": {
+      "link": "https://typecast.ai",
+      "desc": [
+        "在线AI文字转语音生成"
+      ],
+      "monthlyVisits": "86.8万"
+    },
+    "Veed AI Voice Generator": {
+      "link": "https://www.veed.io/tools/text-to-speech-video/ai-voice-generator",
+      "desc": [
+        "Veed AI语音生成器"
+      ],
+      "monthlyVisits": "1173.5万"
+    },
+    "Clipchamp AI旁白生成器": {
+      "link": "https://clipchamp.com/zh-hans/features/ai-voice-over-generator",
+      "desc": [
+        "Clipchamp文字转语音生成器"
+      ],
+      "monthlyVisits": "853万"
+    },
+    "MetaVoice": {
+      "link": "https://themetavoice.xyz",
+      "desc": [
+        "AI实时变声工具"
+      ],
+      "monthlyVisits": "11.4万"
+    },
+    "Speechify": {
+      "link": "https://speechify.com/zh-hans",
+      "desc": [
+        "超2000万人用的文字转语音"
+      ],
+      "monthlyVisits": "426.4万"
+    },
+    "Voicemaker": {
+      "link": "https://voicemaker.in",
+      "desc": [
+        "AI文本到语音生成工具"
+      ],
+      "monthlyVisits": "98.4万"
+    },
+    "Voice.ai": {
+      "link": "https://voice.ai",
+      "desc": [
+        "实时AI变声工具"
+      ],
+      "monthlyVisits": "162.8万"
+    },
+    "Listnr": {
+      "link": "https://www.listnr.tech",
+      "desc": [
+        "AI文本到语音生成器"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Voicemod": {
+      "link": "https://www.voicemod.net/ai-voices",
+      "desc": [
+        "AI变声工具"
+      ],
+      "monthlyVisits": "415万"
+    },
+    "WellSaid Labs": {
+      "link": "https://www.wellsaid.io/",
+      "desc": [
+        "AI文本转语音工具"
+      ],
+      "monthlyVisits": "10.8万"
+    },
+    "Notta": {
+      "link": "https://www.notta.ai/en",
+      "desc": [
+        "AI在线语音转换成文字"
+      ],
+      "monthlyVisits": "373.3万"
+    },
+    "通义听悟": {
+      "link": "https://tingwu.aliyun.com/",
+      "desc": [
+        "阿里AI会议转录/万语千言"
+      ],
+      "monthlyVisits": "38.5万"
+    }
+  },
+  "AI内容检测": {
+    "朱雀AI检测": {
+      "link": "https://matrix.tencent.com/ai-detect/",
+      "desc": [
+        "腾讯 AI图像和文本鉴别工具"
+      ],
+      "monthlyVisits": "18.5万"
+    },
+    "GPTZero": {
+      "link": "https://gptzero.me/",
+      "desc": [
+        "超过百万人都在用的免费AI内容检测工具"
+      ],
+      "monthlyVisits": "1161.5万"
+    },
+    "StudyCorgi": {
+      "link": "https://studycorgi.com/free-writing-tools/chat-gpt-detector",
+      "desc": [
+        "免费的检测论文是否由ChatGPT生成的工具"
+      ],
+      "monthlyVisits": "23.2万"
+    },
+    "AISEO": {
+      "link": "https://aiseo.ai/tools/ai-content-detector.html",
+      "desc": [
+        "AISEO AI内容检测器"
+      ],
+      "monthlyVisits": "313.9万"
+    },
+    "Proofig": {
+      "link": "https://www.proofig.com/",
+      "desc": [
+        "AI检测科研图像是否造假抄袭"
+      ],
+      "monthlyVisits": "9.6千"
+    },
+    "Writecream": {
+      "link": "https://www.writecream.com/ai-content-detector",
+      "desc": [
+        "Writecream AI内容检测工具"
+      ],
+      "monthlyVisits": "108.2万"
+    },
+    "Smodin AI Content Detector": {
+      "link": "https://smodin.io/ai-content-detector",
+      "desc": [
+        "多语种AI内容检测工具"
+      ],
+      "monthlyVisits": "280.1万"
+    },
+    "Sapling AI Content Detector": {
+      "link": "https://sapling.ai/utilities/ai-content-detector",
+      "desc": [
+        "Sapling.ai 免费在线AI内容检测工具"
+      ],
+      "monthlyVisits": "74.2万"
+    },
+    "GPT Detector": {
+      "link": "https://x.writefull.com/gpt-detector",
+      "desc": [
+        "在线检查文本是否由GPT-3或ChatGPT生成"
+      ],
+      "monthlyVisits": "3.7万"
+    },
+    "挖错网": {
+      "link": "https://wacuowang.com/",
+      "desc": [
+        "AI内容审核校对平台，一键检测内容自动纠错"
+      ],
+      "monthlyVisits": "6.2千"
+    },
+    "AI Content Detector": {
+      "link": "https://writer.com/ai-content-detector",
+      "desc": [
+        "Writer AI内容检测工具"
+      ],
+      "monthlyVisits": "74.8万"
+    },
+    "Originality.AI": {
+      "link": "https://originality.ai",
+      "desc": [
+        "原创度和AI内容检测"
+      ],
+      "monthlyVisits": "230.6万"
+    },
+    "CopyLeaks": {
+      "link": "https://copyleaks.com",
+      "desc": [
+        "AI内容检测和分级"
+      ],
+      "monthlyVisits": "293.9万"
+    },
+    "Winston AI": {
+      "link": "https://gowinston.ai",
+      "desc": [
+        "强大的AI内容检测解决方案"
+      ],
+      "monthlyVisits": "70.8万"
+    },
+    "CheckforAI": {
+      "link": "https://checkforai.com",
+      "desc": [
+        "免费在线检测AI内容"
+      ],
+      "monthlyVisits": "0"
+    }
+  },
+  "AI提示指令": {
+    "提示工程指南": {
+      "link": "https://www.promptingguide.ai/zh",
+      "desc": [
+        "提示工程指南，掌握提示词"
+      ],
+      "monthlyVisits": "57.7万"
+    },
+    "PromptPerfect": {
+      "link": "https://promptperfect.jina.ai/",
+      "desc": [
+        "PromptPerfect"
+      ],
+      "monthlyVisits": "17.9万"
+    },
+    "FlowGPT": {
+      "link": "https://flowgpt.com",
+      "desc": [
+        ""
+      ],
+      "monthlyVisits": "279.8万"
+    },
+    "Prompt Book": {
+      "link": "https://openart.ai/promptbook",
+      "desc": [
+        ""
+      ],
+      "monthlyVisits": "583.1万"
+    },
+    "PromptHero": {
+      "link": "https://prompthero.com",
+      "desc": [
+        ""
+      ],
+      "monthlyVisits": "70.3万"
+    },
+    "AI Prompt Generator": {
+      "link": "https://www.aipromptgenerator.net/zh",
+      "desc": [
+        "AI Prompt"
+      ],
+      "monthlyVisits": "7.7千"
+    },
+    "AI Short": {
+      "link": "https://www.aishort.top/",
+      "desc": [
+        "AI Short"
+      ],
+      "monthlyVisits": "3.7万"
+    },
+    "LangGPT": {
+      "link": "https://github.com/langgptai/LangGPT",
+      "desc": [
+        ""
+      ],
+      "monthlyVisits": "4.9亿"
+    },
+    "Generrated": {
+      "link": "https://generrated.com",
+      "desc": [
+        ""
+      ],
+      "monthlyVisits": "0"
+    },
+    "PublicPrompts": {
+      "link": "https://publicprompts.art",
+      "desc": [
+        ""
+      ],
+      "monthlyVisits": "8.8千"
+    },
+    "Snack Prompt": {
+      "link": "https://snackprompt.com/",
+      "desc": [
+        ""
+      ],
+      "monthlyVisits": "6.8万"
+    },
+    "AIPRM": {
+      "link": "https://www.aiprm.com",
+      "desc": [
+        ""
+      ],
+      "monthlyVisits": "103.9万"
+    },
+    "绘AI": {
+      "link": "https://www.ai016.com",
+      "desc": [
+        ""
+      ],
+      "monthlyVisits": "0"
+    },
+    "MJ Prompt Tool": {
+      "link": "https://prompt.noonshot.com",
+      "desc": [
+        ""
+      ],
+      "monthlyVisits": "0"
+    },
+    "ChatGPT Prompt Genius": {
+      "link": "https://github.com/benf2004/ChatGPT-Prompt-Genius",
+      "desc": [
+        ""
+      ],
+      "monthlyVisits": "4.9亿"
+    },
+    "PromptBase": {
+      "link": "https://promptbase.com",
+      "desc": [
+        ""
+      ],
+      "monthlyVisits": "56.7万"
+    },
+    "PromptVine": {
+      "link": "https://promptvine.com",
+      "desc": [
+        ""
+      ],
+      "monthlyVisits": "0"
+    },
+    "Awesome ChatGPT Prompts": {
+      "link": "https://prompts.chat",
+      "desc": [
+        ""
+      ],
+      "monthlyVisits": "6.5万"
+    },
+    "Learning Prompt": {
+      "link": "https://learningprompt.wiki",
+      "desc": [
+        ""
+      ],
+      "monthlyVisits": "2.3万"
+    }
+  },
+  "AI模型评测": {
+    "MMLU": {
+      "link": "https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu",
+      "desc": [
+        "大规模多任务语言理解基准"
+      ],
+      "monthlyVisits": "127.5万"
+    },
+    "Open LLM Leaderboard": {
+      "link": "https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard",
+      "desc": [
+        "Hugging Face 开源大模型排行榜单"
+      ],
+      "monthlyVisits": "2390.5万"
+    },
+    "C-Eval": {
+      "link": "https://cevalbenchmark.com/static/leaderboard_zh.html",
+      "desc": [
+        "一个全面的中文基础模型评估套件"
+      ],
+      "monthlyVisits": "0"
+    },
+    "FlagEval": {
+      "link": "https://flageval.baai.ac.cn/#/",
+      "desc": [
+        "智源研究院 FlagEval（天秤）大模型评测平台"
+      ],
+      "monthlyVisits": "0"
+    },
+    "SuperCLUE": {
+      "link": "https://www.cluebenchmarks.com/static/superclue.html",
+      "desc": [
+        "中文通用大模型综合性测评基准"
+      ],
+      "monthlyVisits": "1.3万"
+    },
+    "AGI-Eval": {
+      "link": "https://agi-eval.cn/mvp/home",
+      "desc": [
+        "AI大模型评测社区"
+      ],
+      "monthlyVisits": "0"
+    },
+    "OpenCompass": {
+      "link": "https://opencompass.org.cn/leaderboard-llm",
+      "desc": [
+        "上海人工智能实验室 大模型开放评测体系"
+      ],
+      "monthlyVisits": "4.9万"
+    },
+    "MMBench": {
+      "link": "https://mmbench.opencompass.org.cn/leaderboard",
+      "desc": [
+        "全方位的多模态大模型能力评测体系"
+      ],
+      "monthlyVisits": "0"
+    },
+    "HELM": {
+      "link": "https://crfm.stanford.edu/helm/latest",
+      "desc": [
+        "斯坦福大学 大模型评测体系"
+      ],
+      "monthlyVisits": "5.2万"
+    },
+    "Chatbot Arena": {
+      "link": "https://chat.lmsys.org",
+      "desc": [
+        "以众包方式进行匿名随机对战的LLM基准平台"
+      ],
+      "monthlyVisits": "3.8万"
+    },
+    "LLMEval3": {
+      "link": "http://llmeval.com/index",
+      "desc": [
+        "由复旦大学NLP实验室 大模型评测基准"
+      ],
+      "monthlyVisits": "NaN"
+    },
+    "H2O EvalGPT": {
+      "link": "https://evalgpt.ai",
+      "desc": [
+        "H2O.ai 基于Elo评级方法的大模型评估系统"
+      ],
+      "monthlyVisits": "0"
+    },
+    "PubMedQA": {
+      "link": "https://pubmedqa.github.io",
+      "desc": [
+        "生物医学研究问答数据集和模型得分排行榜"
+      ],
+      "monthlyVisits": "0"
+    }
+  },
+  "学习": {
+    "AI大学堂": {
+      "link": "https://www.aidaxue.com/",
+      "desc": [
+        "科大讯飞AI学习平台"
+      ],
+      "monthlyVisits": "2.9万"
+    },
+    "OpenAI Academy": {
+      "link": "https://academy.openai.com/",
+      "desc": [
+        "OpenAI免费AI学习平台"
+      ],
+      "monthlyVisits": "201.9万"
+    },
+    "Day of AI": {
+      "link": "https://dayofai.org/",
+      "desc": [
+        "MIT免费AI学习平台"
+      ],
+      "monthlyVisits": "1.9万"
+    },
+    "fast.ai": {
+      "link": "https://www.fast.ai",
+      "desc": [
+        "免费开源深度学习/AI学习"
+      ],
+      "monthlyVisits": "42.9万"
+    },
+    "Coursera": {
+      "link": "https://www.coursera.org/collections/best-machine-learning-ai",
+      "desc": [
+        "MOOC平台/AI/机器学习课程"
+      ],
+      "monthlyVisits": "4326.6万"
+    },
+    "Elements of AI": {
+      "link": "https://www.elementsofai.com",
+      "desc": [
+        "免费在线AI通识学习"
+      ],
+      "monthlyVisits": "51.7万"
+    },
+    "DeepLearning.AI": {
+      "link": "https://www.deeplearning.ai",
+      "desc": [
+        "深度学习/AI学习平台"
+      ],
+      "monthlyVisits": "231万"
+    },
+    "动手学深度学习": {
+      "link": "https://zh.d2l.ai",
+      "desc": [
+        "深度学习教材/课程"
+      ],
+      "monthlyVisits": "12.4万"
+    },
+    "MachineLearningMastery": {
+      "link": "https://machinelearningmastery.com/start-here",
+      "desc": [
+        "免费机器学习/基础到高级"
+      ],
+      "monthlyVisits": "50.6万"
+    },
+    "Generative AI for Beginners": {
+      "link": "https://microsoft.github.io/generative-ai-for-beginners/#/",
+      "desc": [
+        "微软生成式AI初学者课程"
+      ],
+      "monthlyVisits": "95.3万"
+    },
+    "Kaggle": {
+      "link": "https://www.kaggle.com",
+      "desc": [
+        "机器学习/数据科学社区"
+      ],
+      "monthlyVisits": "1075万"
+    },
+    "神经网络入门": {
+      "link": "https://brilliant.org/courses/intro-neural-networks",
+      "desc": [
+        "Brilliant神经网络课程"
+      ],
+      "monthlyVisits": "236.7万"
+    },
+    "Trancy": {
+      "link": "https://trancy.org/zh-cn",
+      "desc": [
+        "AI语言学习工具"
+      ],
+      "monthlyVisits": "94.5万"
+    },
+    "Reading Coach": {
+      "link": "https://coach.microsoft.com/",
+      "desc": [
+        "微软AI阅读学习教练"
+      ],
+      "monthlyVisits": "22.5万"
+    },
+    "飞桨AI Studio": {
+      "link": "https://aistudio.baidu.com",
+      "desc": [
+        "百度AI学习/实训社区"
+      ],
+      "monthlyVisits": "36.2万"
+    },
+    "腾讯扣叮": {
+      "link": "https://coding.qq.com/",
+      "desc": [
+        "青少年编程教育平台"
+      ],
+      "monthlyVisits": "23.6万"
+    },
+    "阿里云AI学习路线": {
+      "link": "https://developer.aliyun.com/learning/roadmap/ai",
+      "desc": [
+        "阿里云AI学习路线/学测"
+      ],
+      "monthlyVisits": "238.1万"
+    },
+    "Udacity AI学院": {
+      "link": "https://www.udacity.com/school/artificial-intelligence",
+      "desc": [
+        "Udacity AI学院/入门到高级"
+      ],
+      "monthlyVisits": "174.7万"
+    },
+    "Google AI": {
+      "link": "https://ai.google",
+      "desc": [
+        "Google AI学习平台"
+      ],
+      "monthlyVisits": "204.2万"
+    },
+    "ShowMeAI知识社区": {
+      "link": "https://www.showmeai.tech/",
+      "desc": [
+        "AI资料库/学习社区"
+      ],
+      "monthlyVisits": "3.2万"
+    },
+    "txyz": {
+      "link": "https://www.txyz.ai/",
+      "desc": [
+        "AI文献阅读/学术研究辅助"
+      ],
+      "monthlyVisits": "29.8万"
+    }
+  },
+  "法律": {
+    "元典智库": {
+      "link": "https://www.chineselaw.com/tyjs/index",
+      "desc": [
+        "智能法律知识服务/搜索"
+      ],
+      "monthlyVisits": "3.8万"
+    },
+    "通义法睿": {
+      "link": "https://tongyi.aliyun.com/farui/home",
+      "desc": [
+        "阿里免费AI法律顾问助手"
+      ],
+      "monthlyVisits": "83.8万"
+    },
+    "法行宝": {
+      "link": "https://ailegal.baidu.com/",
+      "desc": [
+        "百度免费AI法律助手"
+      ],
+      "monthlyVisits": "2012.3万"
+    },
+    "得理法搜": {
+      "link": "https://www.delilegal.com/search",
+      "desc": [
+        "AI法律智能检索系统"
+      ],
+      "monthlyVisits": "1.1万"
+    },
+    "法智": {
+      "link": "https://www.fazhi.law/",
+      "desc": [
+        "同花顺AI法律助手"
+      ],
+      "monthlyVisits": "0"
+    },
+    "海瑞智法": {
+      "link": "https://www.hairuilegal.com/",
+      "desc": [
+        "一站式AI法律咨询助手"
+      ],
+      "monthlyVisits": "8.8千"
+    },
+    "合同嗖嗖": {
+      "link": "https://contract.yoo-ai.com/",
+      "desc": [
+        "专业AI法律合同生成工具"
+      ],
+      "monthlyVisits": "0"
+    }
+  },
+  "智能体/开发/训练": {
+    "Coze": {
+      "link": "http://dis.csqixiang.cn/unpo/cozeaibot.html",
+      "desc": [
+        "海量AI智能体/接入DeepSeek"
+      ],
+      "monthlyVisits": "23万"
+    },
+    "SiliconFlow": {
+      "link": "https://cloud.siliconflow.cn/i/SjhsJgfH",
+      "desc": [
+        "生成式AI计算基础设施平台"
+      ],
+      "monthlyVisits": "93.3万"
+    },
+    "Zion": {
+      "link": "https://www.functorz.com/pricing",
+      "desc": [
+        "全栈AI Agent无代码开发"
+      ],
+      "monthlyVisits": "3.7万"
+    },
+    "Dify": {
+      "link": "https://dify.ai/",
+      "desc": [
+        "开源生成式AI应用开发"
+      ],
+      "monthlyVisits": "184.3万"
+    },
+    "秒哒": {
+      "link": "https://console.bce.baidu.com/miaoda/",
+      "desc": [
+        "百度零代码AI开发平台"
+      ],
+      "monthlyVisits": "56.6万"
+    },
+    "PPIO派欧云": {
+      "link": "https://ppio.cn/",
+      "desc": [
+        "AI云端一体化解决方案"
+      ],
+      "monthlyVisits": "3.7万"
+    },
+    "阿里云百炼": {
+      "link": "https://bailian.console.aliyun.com/",
+      "desc": [
+        "一站式大模型开发/应用构建"
+      ],
+      "monthlyVisits": "142.2万"
+    },
+    "模力方舟": {
+      "link": "https://ai.gitee.com/",
+      "desc": [
+        "AI应用共创/开发到部署"
+      ],
+      "monthlyVisits": "2.8万"
+    },
+    "NoCode": {
+      "link": "https://www.nocode.tech/",
+      "desc": [
+        "美团零代码AI应用开发"
+      ],
+      "monthlyVisits": "6.8万"
+    },
+    "BigModel": {
+      "link": "https://bigmodel.cn",
+      "desc": [
+        "智谱大模型开发平台"
+      ],
+      "monthlyVisits": "50.1万"
+    },
+    "无问芯穹": {
+      "link": "https://cloud.infini-ai.com/platform/ai",
+      "desc": [
+        "AI大模型服务/算力到应用"
+      ],
+      "monthlyVisits": "3.9万"
+    },
+    "码上飞": {
+      "link": "https://www.codeflying.net/#/index",
+      "desc": [
+        "AI软件开发/端到端应用"
+      ],
+      "monthlyVisits": "4.4万"
+    },
+    "Wordware": {
+      "link": "https://app.wordware.ai/lp",
+      "desc": [
+        "零代码AI Agent开发平台"
+      ],
+      "monthlyVisits": "6.9万"
+    },
+    "文心智能体平台": {
+      "link": "https://agents.baidu.com/center",
+      "desc": [
+        "百度智能体构建平台"
+      ],
+      "monthlyVisits": "69.1万"
+    },
+    "SkyAgents 天工": {
+      "link": "https://model-platform.tiangong.cn/",
+      "desc": [
+        "昆仑万维AI Agent开发"
+      ],
+      "monthlyVisits": "9.6千"
+    },
+    "言犀智能体平台": {
+      "link": "https://yanxi.jd.com/",
+      "desc": [
+        "京东AI智能体开发平台"
+      ],
+      "monthlyVisits": "0"
+    },
+    "魔乐社区": {
+      "link": "https://modelers.cn/",
+      "desc": [
+        "天翼云华为AI开发者社区"
+      ],
+      "monthlyVisits": "3.2万"
+    },
+    "BetterYeah AI": {
+      "link": "https://www.betteryeah.com/",
+      "desc": [
+        "企业AI应用/助手构建"
+      ],
+      "monthlyVisits": "3.4万"
+    },
+    "飞桨PaddlePaddle": {
+      "link": "https://www.paddlepaddle.org.cn",
+      "desc": [
+        "开源深度学习平台"
+      ],
+      "monthlyVisits": "19.7万"
+    },
+    "昇思MindSpore": {
+      "link": "https://www.mindspore.cn",
+      "desc": [
+        "华为开源AI深度学习框架"
+      ],
+      "monthlyVisits": "18.6万"
+    },
+    "PyTorch": {
+      "link": "https://pytorch.org",
+      "desc": [
+        "开源机器学习框架"
+      ],
+      "monthlyVisits": "227.4万"
+    },
+    "Gumloop": {
+      "link": "https://www.gumloop.com/",
+      "desc": [
+        "AI零代码工作流平台"
+      ],
+      "monthlyVisits": "38.1万"
+    },
+    "TensorFlow": {
+      "link": "https://www.tensorflow.org/?hl=zh-cn",
+      "desc": [
+        "Google机器学习/AI开源库"
+      ],
+      "monthlyVisits": "108.5万"
+    },
+    "Apache MXNet": {
+      "link": "https://mxnet.apache.org",
+      "desc": [
+        "免费开源深度学习框架"
+      ],
+      "monthlyVisits": "5.8千"
+    },
+    "Scikit-learn": {
+      "link": "https://scikit-learn.org",
+      "desc": [
+        "Python机器学习库"
+      ],
+      "monthlyVisits": "130.1万"
+    },
+    "MLX": {
+      "link": "https://ml-explore.github.io/mlx/build/html/index.html",
+      "desc": [
+        "苹果开源机器学习框架"
+      ],
+      "monthlyVisits": "1.9万"
+    },
+    "Label Studio": {
+      "link": "https://labelstud.io",
+      "desc": [
+        "免费开源数据标注工具"
+      ],
+      "monthlyVisits": "17.9万"
+    },
+    "Vercel AI SDK": {
+      "link": "https://sdk.vercel.ai/docs",
+      "desc": [
+        "Vercel AI聊天机器人开发"
+      ],
+      "monthlyVisits": "4.5万"
+    },
+    "Keras": {
+      "link": "https://keras.io",
+      "desc": [
+        "Python版TensorFlow深度学习"
+      ],
+      "monthlyVisits": "37.3万"
+    },
+    "Caffe": {
+      "link": "https://caffe.berkeleyvision.org",
+      "desc": [
+        "UC伯克利深度学习框架"
+      ],
+      "monthlyVisits": "0"
+    },
+    "NumPy": {
+      "link": "https://numpy.org",
+      "desc": [
+        "Python科学计算包"
+      ],
+      "monthlyVisits": "119.7万"
+    },
+    "DL4J": {
+      "link": "https://deeplearning4j.konduit.ai",
+      "desc": [
+        "开源JVM深度学习套件"
+      ],
+      "monthlyVisits": "0"
+    },
+    "JAX": {
+      "link": "https://jax.readthedocs.io/en/latest",
+      "desc": [
+        "Google数值函数机器学习"
+      ],
+      "monthlyVisits": "6.2千"
+    },
+    "NLTK": {
+      "link": "https://www.nltk.org",
+      "desc": [
+        "Python自然语言处理工具"
+      ],
+      "monthlyVisits": "15.1万"
+    },
+    "LangChain": {
+      "link": "https://docs.langchain.com/docs",
+      "desc": [
+        "语言模型应用开发框架"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Lightning AI": {
+      "link": "https://lightning.ai/",
+      "desc": [
+        "快速AI训练/部署/开发"
+      ],
+      "monthlyVisits": "43.8万"
+    },
+    "Leap": {
+      "link": "https://www.tryleap.ai/",
+      "desc": [
+        "AI快速集成到应用"
+      ],
+      "monthlyVisits": "4.5万"
+    },
+    "ChatDev": {
+      "link": "https://chatdev.modelbest.cn/",
+      "desc": [
+        "面壁AI智能体软件开发"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Anakin.ai": {
+      "link": "https://anakin.ai/zh-cn",
+      "desc": [
+        "一站式无代码AI应用构建"
+      ],
+      "monthlyVisits": "111.2万"
+    },
+    "天壤小白": {
+      "link": "https://www.tianrang.com/",
+      "desc": [
+        "灵活AI应用构建/开发"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Ollama": {
+      "link": "https://ollama.ai/",
+      "desc": [
+        "本地运行Llama/大语言模型"
+      ],
+      "monthlyVisits": "1.3万"
+    },
+    "Cherry Studio": {
+      "link": "https://www.cherry-ai.com/",
+      "desc": [
+        "多模型AI客户端/本地运行"
+      ],
+      "monthlyVisits": "46.1万"
+    },
+    "AnythingLLM": {
+      "link": "https://anythingllm.com/",
+      "desc": [
+        "开源全栈AI客户端"
+      ],
+      "monthlyVisits": "33.7万"
+    },
+    "Chatbox AI": {
+      "link": "https://chatboxai.app/en",
+      "desc": [
+        "开源AI客户端助手"
+      ],
+      "monthlyVisits": "66.1万"
+    },
+    "GPT-4o": {
+      "link": "https://openai.com/index/hello-gpt-4o/",
+      "desc": [
+        "OpenAI多模态AI/语音对话"
+      ],
+      "monthlyVisits": "6.4亿"
+    },
+    "无阶未来": {
+      "link": "https://www.aivinla.com/spaces",
+      "desc": [
+        "AI应用/弹性算网平台"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Llama 3": {
+      "link": "llama.meta.com/llama3/",
+      "desc": [
+        "Meta开源新一代大模型"
+      ],
+      "monthlyVisits": "NaN"
+    },
+    "Gemma": {
+      "link": "https://ai.google.dev/gemma?hl=zh-cn",
+      "desc": [
+        "谷歌轻量级开放模型"
+      ],
+      "monthlyVisits": "616.9万"
+    },
+    "豆包大模型": {
+      "link": "https://www.volcengine.com/product/doubao",
+      "desc": [
+        "字节AI大模型家族"
+      ],
+      "monthlyVisits": "480.8万"
+    },
+    "Sora": {
+      "link": "https://openai.com/sora",
+      "desc": [
+        "OpenAI视频生成模型"
+      ],
+      "monthlyVisits": "6.4亿"
+    },
+    "腾讯混元大模型": {
+      "link": "https://hunyuan.tencent.com/",
+      "desc": [
+        "腾讯大语言模型/中文创作"
+      ],
+      "monthlyVisits": "166.5万"
+    },
+    "讯飞星辰MaaS": {
+      "link": "https://training.xfyun.cn/",
+      "desc": [
+        "科大讯飞AI大模型定制训练"
+      ],
+      "monthlyVisits": "1.7万"
+    },
+    "DALL·E 3": {
+      "link": "https://openai.com/index/dall-e-2/",
+      "desc": [
+        "OpenAI图像生成模型"
+      ],
+      "monthlyVisits": "6.4亿"
+    },
+    "文心大模型": {
+      "link": "https://wenxin.baidu.com",
+      "desc": [
+        "百度产业级知识增强大模型"
+      ],
+      "monthlyVisits": "3.7万"
+    },
+    "LLaMA": {
+      "link": "https://github.com/facebookresearch/llama",
+      "desc": [
+        "Meta AI大语言模型"
+      ],
+      "monthlyVisits": "4.9亿"
+    },
+    "Auto-GPT": {
+      "link": "https://agpt.co",
+      "desc": [
+        "GPT-4完全自主实验项目"
+      ],
+      "monthlyVisits": "11.6万"
+    },
+    "Jan": {
+      "link": "https://jan.ai/",
+      "desc": [
+        "本地运行大模型AI对话"
+      ],
+      "monthlyVisits": "24.6万"
+    },
+    "AgentGPT": {
+      "link": "https://agentgpt.reworkd.ai/zh",
+      "desc": [
+        "浏览器AI代理配置/部署"
+      ],
+      "monthlyVisits": "14.4万"
+    },
+    "魔搭社区": {
+      "link": "https://www.modelscope.cn/",
+      "desc": [
+        "阿里AI模型社区/300+模型"
+      ],
+      "monthlyVisits": "185.5万"
+    },
+    "悟道": {
+      "link": "https://www.baai.ac.cn/",
+      "desc": [
+        "智源悟道/世界最大AI模型"
+      ],
+      "monthlyVisits": "18.1万"
+    },
+    "MiracleVision奇想智能": {
+      "link": "https://www.miraclevision.com/",
+      "desc": [
+        "美图AI视觉大模型"
+      ],
+      "monthlyVisits": "8.9千"
+    },
+    "Gradio": {
+      "link": "https://gradio.app",
+      "desc": [
+        "开源机器学习UI界面"
+      ],
+      "monthlyVisits": "33万"
+    },
+    "DeepFloyd IF": {
+      "link": "https://deepfloyd.ai/deepfloyd-if",
+      "desc": [
+        "StabilityAI图片生成模型"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Cohere": {
+      "link": "https://cohere.com",
+      "desc": [
+        "构建AI产品大语言模型"
+      ],
+      "monthlyVisits": "74.5万"
+    },
+    "Codex": {
+      "link": "https://openai.com/blog/openai-codex",
+      "desc": [
+        "OpenAI代码生成训练模型"
+      ],
+      "monthlyVisits": "6.4亿"
+    },
+    "序列猴子": {
+      "link": "https://openapi.mobvoi.com/index",
+      "desc": [
+        "出门问问超大规模语言模型"
+      ],
+      "monthlyVisits": "0"
+    },
+    "BLOOM": {
+      "link": "https://huggingface.co/docs/transformers/model_doc/bloom",
+      "desc": [
+        "HuggingFace大型语言模型"
+      ],
+      "monthlyVisits": "2390.5万"
+    },
+    "阿里巴巴M6": {
+      "link": "https://m6.aliyun.com/#",
+      "desc": [
+        "阿里超大规模中文预训练"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Lamini": {
+      "link": "https://lamini.ai",
+      "desc": [
+        "低门槛定制大语言模型"
+      ],
+      "monthlyVisits": "1.4万"
+    },
+    "StableLM": {
+      "link": "https://github.com/Stability-AI/StableLM",
+      "desc": [
+        "Stability开源ChatGPT模型"
+      ],
+      "monthlyVisits": "4.9亿"
+    },
+    "Gen-2": {
+      "link": "https://research.runwayml.com/gen2",
+      "desc": [
+        "Runway AI视频生成模型"
+      ],
+      "monthlyVisits": "5.7千"
+    },
+    "DeepSpeed": {
+      "link": "https://www.deepspeed.ai",
+      "desc": [
+        "微软开源ChatGPT模型训练"
+      ],
+      "monthlyVisits": "4.4万"
+    },
+    "PaLM 2": {
+      "link": "https://ai.google/discover/palm2",
+      "desc": [
+        "Google下一代大语言模型"
+      ],
+      "monthlyVisits": "204.2万"
+    },
+    "OpenBMB": {
+      "link": "https://www.openbmb.org/home",
+      "desc": [
+        "清华大规模预训练语言模型"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Segment Anything（SAM）": {
+      "link": "https://segment-anything.com",
+      "desc": [
+        "Meta AI图像分割模型"
+      ],
+      "monthlyVisits": "10.5万"
+    },
+    "HuggingFace": {
+      "link": "https://huggingface.co",
+      "desc": [
+        "AI模型开发社区"
+      ],
+      "monthlyVisits": "2390.5万"
+    },
+    "Imagen": {
+      "link": "https://imagen.research.google",
+      "desc": [
+        "Google AI文字到图像"
+      ],
+      "monthlyVisits": "1.4万"
+    },
+    "StableVicuna": {
+      "link": "https://lmarena.ai/",
+      "desc": [
+        "RLHF训练开源聊天机器人"
+      ],
+      "monthlyVisits": "329.1万"
+    },
+    "Watsonx.ai": {
+      "link": "https://www.ibm.com/products/watsonx-ai",
+      "desc": [
+        "IBM企业级生成式AI"
+      ],
+      "monthlyVisits": "1427.5万"
+    },
+    "Lobe": {
+      "link": "https://www.lobe.ai",
+      "desc": [
+        "简单免费机器学习训练"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Scale AI": {
+      "link": "https://scale.com",
+      "desc": [
+        "AI机器学习标注训练"
+      ],
+      "monthlyVisits": "70.1万"
+    },
+    "Replicate": {
+      "link": "https://replicate.com",
+      "desc": [
+        "在线运行开源机器学习"
+      ],
+      "monthlyVisits": "140.4万"
+    },
+    "Evidently AI": {
+      "link": "https://www.evidentlyai.com",
+      "desc": [
+        "开源机器学习监测/测试"
+      ],
+      "monthlyVisits": "12.7万"
+    },
+    "商量SenseChat": {
+      "link": "https://chat.sensetime.com/wb",
+      "desc": [
+        "商汤ChatGPT大语言模型"
+      ],
+      "monthlyVisits": "3万"
+    }
+  },
+  "编程工具": {
+    "Trae": {
+      "link": "https://www.trae.com.cn/",
+      "desc": [
+        "字节免费AI编程/Claude模型"
+      ],
+      "monthlyVisits": "114.1万"
+    },
+    "通义灵码": {
+      "link": "https://lingma.aliyun.com/",
+      "desc": [
+        "阿里免费AI编程/通义大模型"
+      ],
+      "monthlyVisits": "23.7万"
+    },
+    "文心快码": {
+      "link": "https://comate.baidu.com/zh",
+      "desc": [
+        "百度AI编程助手/文心大模型"
+      ],
+      "monthlyVisits": "21.6万"
+    },
+    "豆包AI编程": {
+      "link": "https://www.doubao.com/chat/coding",
+      "desc": [
+        "豆包AI编程新功能"
+      ],
+      "monthlyVisits": "5667.1万"
+    },
+    "Cursor": {
+      "link": "https://www.cursor.com/",
+      "desc": [
+        "AI代码编辑器/快速编程"
+      ],
+      "monthlyVisits": "2126.6万"
+    },
+    "GitHub Copilot": {
+      "link": "https://github.com/features/copilot",
+      "desc": [
+        "GitHub AI编程工具"
+      ],
+      "monthlyVisits": "4.9亿"
+    },
+    "代码小浣熊": {
+      "link": "https://www.xiaohuanxiong.com/login",
+      "desc": [
+        "商汤免费AI编程助手"
+      ],
+      "monthlyVisits": "8万"
+    },
+    "Firebase Studio": {
+      "link": "https://firebase.studio/",
+      "desc": [
+        "谷歌AI编程/一站式全栈"
+      ],
+      "monthlyVisits": "267.1万"
+    },
+    "Windsurf": {
+      "link": "https://windsurf.com/editor",
+      "desc": [
+        "Codeium AI编程工具"
+      ],
+      "monthlyVisits": "520.7万"
+    },
+    "Bolt.new": {
+      "link": "https://bolt.new/",
+      "desc": [
+        "StackBlitz全栈AI代码工具"
+      ],
+      "monthlyVisits": "899.8万"
+    },
+    "Replit Agent": {
+      "link": "https://replit.com/",
+      "desc": [
+        "Replit AI编程工具"
+      ],
+      "monthlyVisits": "1184.2万"
+    },
+    "Lovable": {
+      "link": "https://lovable.dev/",
+      "desc": [
+        "AI编程/自然对话构建Web"
+      ],
+      "monthlyVisits": "3033.3万"
+    },
+    "CodeBuddy": {
+      "link": "https://codebuddy.ca/",
+      "desc": [
+        "腾讯AI编程助手"
+      ],
+      "monthlyVisits": "1.6万"
+    },
+    "CodeWhisperer": {
+      "link": "https://aws.amazon.com/cn/q/developer/",
+      "desc": [
+        "亚马逊免费AI编程助手"
+      ],
+      "monthlyVisits": "5832.5万"
+    },
+    "Junie": {
+      "link": "https://www.jetbrains.com/zh-cn/junie/",
+      "desc": [
+        "JetBrains AI编程助手"
+      ],
+      "monthlyVisits": "796.7万"
+    },
+    "qodo": {
+      "link": "https://www.qodo.ai/",
+      "desc": [
+        "免费AI代码测试/分析"
+      ],
+      "monthlyVisits": "62.3万"
+    },
+    "CodeGeeX": {
+      "link": "https://codegeex.cn",
+      "desc": [
+        "智谱免费AI编程助手"
+      ],
+      "monthlyVisits": "8万"
+    },
+    "Cody": {
+      "link": "https://sourcegraph.com/cody",
+      "desc": [
+        "Sourcegraph免费AI编程"
+      ],
+      "monthlyVisits": "43.4万"
+    },
+    "DevChat": {
+      "link": "https://devchat.ai/",
+      "desc": [
+        "开源多大模型AI编程助手"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Genie": {
+      "link": "https://usegenie.ai/",
+      "desc": [
+        "Cosine AI编程助手"
+      ],
+      "monthlyVisits": "15万"
+    },
+    "iFlyCode": {
+      "link": "https://iflycode.xfyun.cn/index",
+      "desc": [
+        "科大讯飞智能编程助手"
+      ],
+      "monthlyVisits": "5.8千"
+    },
+    "Twinny": {
+      "link": "https://twinny.dev/",
+      "desc": [
+        "VS Code AI代码补全插件"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Project IDX": {
+      "link": "https://idx.dev/",
+      "desc": [
+        "谷歌AI云端开发/代码编辑"
+      ],
+      "monthlyVisits": "21.2万"
+    },
+    "CodeFuse": {
+      "link": "https://codefuse.alipay.com/vat/home",
+      "desc": [
+        "蚂蚁AI代码编程助手"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Tabby": {
+      "link": "https://tabby.tabbyml.com/",
+      "desc": [
+        "免费开源自托管AI编程"
+      ],
+      "monthlyVisits": "1.3万"
+    },
+    "C知道": {
+      "link": "https://so.csdn.net/chat",
+      "desc": [
+        "CSDN AI技术问答工具"
+      ],
+      "monthlyVisits": "312.2万"
+    },
+    "驭码CodeRider": {
+      "link": "https://coderider.gitlab.cn",
+      "desc": [
+        "极狐GitLab AI编程助手"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Duo Chat": {
+      "link": "https://about.gitlab.com/gitlab-duo/",
+      "desc": [
+        "GitLab AI编程助手"
+      ],
+      "monthlyVisits": "151.7万"
+    },
+    "CodeRabbit": {
+      "link": "https://coderabbit.ai/",
+      "desc": [
+        "AI驱动代码审查平台"
+      ],
+      "monthlyVisits": "46.2万"
+    },
+    "Augment Code": {
+      "link": "https://www.augmentcode.com/",
+      "desc": [
+        "AI编程辅助/大型代码库"
+      ],
+      "monthlyVisits": "103万"
+    },
+    "Devin": {
+      "link": "https://preview.devin.ai/",
+      "desc": [
+        "首个全自主AI软件工程师"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Plandex": {
+      "link": "https://plandex.ai/",
+      "desc": [
+        "免费开源终端AI编程引擎"
+      ],
+      "monthlyVisits": "2.1万"
+    },
+    "Fitten Code": {
+      "link": "https://code.fittentech.com/",
+      "desc": [
+        "非十科技免费AI代码助手"
+      ],
+      "monthlyVisits": "2.4万"
+    },
+    "BLACKBOX AI": {
+      "link": "https://www.blackbox.ai/",
+      "desc": [
+        "黑箱AI编程/快速代码生成"
+      ],
+      "monthlyVisits": "1460.3万"
+    },
+    "Solo": {
+      "link": "https://soloist.ai/",
+      "desc": [
+        "Mozilla零编程AI网站建设"
+      ],
+      "monthlyVisits": "10.8万"
+    },
+    "JetBrains AI": {
+      "link": "https://www.jetbrains.com/ai/",
+      "desc": [
+        "JetBrains AI编程开发助手"
+      ],
+      "monthlyVisits": "796.7万"
+    },
+    "CodeArts Snap": {
+      "link": "https://www.huaweicloud.com/product/codeartside/snap.html",
+      "desc": [
+        "华为云智能编程助手"
+      ],
+      "monthlyVisits": "383.8万"
+    },
+    "AskCodi": {
+      "link": "https://www.askcodi.com",
+      "desc": [
+        "个人AI编程助手"
+      ],
+      "monthlyVisits": "7.3万"
+    },
+    "v0.dev": {
+      "link": "https://v0.dev/",
+      "desc": [
+        "AI生成React/UI组件"
+      ],
+      "monthlyVisits": "620.9万"
+    },
+    "Quest AI": {
+      "link": "https://www.quest.ai/",
+      "desc": [
+        "AI设计稿生成React代码"
+      ],
+      "monthlyVisits": "9.9千"
+    },
+    "JamGPT": {
+      "link": "https://jam.dev/ai",
+      "desc": [
+        "AI Debug调试助手"
+      ],
+      "monthlyVisits": "49.3万"
+    },
+    "aiXcoder": {
+      "link": "https://www.aixcoder.com",
+      "desc": [
+        "自然语言到代码生成"
+      ],
+      "monthlyVisits": "6.5千"
+    },
+    "AirOps": {
+      "link": "https://www.airops.com",
+      "desc": [
+        "AI SQL语句生成/修改"
+      ],
+      "monthlyVisits": "11.7万"
+    },
+    "Imgcook": {
+      "link": "https://www.imgcook.com",
+      "desc": [
+        "阿里设计稿生成前端代码"
+      ],
+      "monthlyVisits": "5.7千"
+    },
+    "Deco": {
+      "link": "https://ling-deco.jd.com",
+      "desc": [
+        "京东设计稿生成多端代码"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Codiga": {
+      "link": "https://www.codiga.io",
+      "desc": [
+        "AI代码实时分析"
+      ],
+      "monthlyVisits": "3.7万"
+    },
+    "Locofy": {
+      "link": "https://www.locofy.ai",
+      "desc": [
+        "AI无代码设计转前端代码"
+      ],
+      "monthlyVisits": "23.3万"
+    },
+    "Fronty": {
+      "link": "https://fronty.com",
+      "desc": [
+        "AI智能图片转HTML/CSS"
+      ],
+      "monthlyVisits": "5.5万"
+    },
+    "MarsX": {
+      "link": "https://www.marsx.dev",
+      "desc": [
+        "AI无代码软件开发"
+      ],
+      "monthlyVisits": "7.8千"
+    },
+    "Tabnine": {
+      "link": "https://www.tabnine.com",
+      "desc": [
+        "AI代码自动补全编程助手"
+      ],
+      "monthlyVisits": "42.6万"
+    },
+    "Warp": {
+      "link": "https://www.warp.dev",
+      "desc": [
+        "21世纪终端/内置AI命令"
+      ],
+      "monthlyVisits": "163.6万"
+    },
+    "Fig": {
+      "link": "https://fig.io",
+      "desc": [
+        "下一代命令行/AI终端补全"
+      ],
+      "monthlyVisits": "12.5万"
+    },
+    "CodeSnippets": {
+      "link": "https://codesnippets.ai",
+      "desc": [
+        "AI代码生成/补全/分析"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Hocoos": {
+      "link": "https://hocoos.com",
+      "desc": [
+        "无代码AI智能快速建站"
+      ],
+      "monthlyVisits": "12.8万"
+    },
+    "HTTPie AI": {
+      "link": "https://httpie.io/ai",
+      "desc": [
+        "AI API开发工具"
+      ],
+      "monthlyVisits": "7.9万"
+    },
+    "AI Code Reviewer": {
+      "link": "https://ai-code-reviewer.com",
+      "desc": [
+        "AI代码检查"
+      ],
+      "monthlyVisits": "0"
+    },
+    "Visual Studio IntelliCode": {
+      "link": "https://visualstudio.microsoft.com/zh-hans/services/intellicode",
+      "desc": [
+        "Visual Studio AI辅助开发"
+      ],
+      "monthlyVisits": "383.1万"
+    },
+    "HeyCLI": {
+      "link": "https://www.heycli.com",
+      "desc": [
+        "自然语言转CLI命令"
+      ],
+      "monthlyVisits": "0"
+    }
+  }
+}
