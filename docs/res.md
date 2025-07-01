@@ -166,7 +166,7 @@
 
 
  - gratisography
-     - 可用性-是；
+     - 可用性-否；
      - https://gratisography.com/
      - 脑洞设计
     
@@ -201,7 +201,7 @@
 
 
  - simpledesktops
-     - 可用性-是；
+     - 可用性-否；
      - http://simpledesktops.com/browse/
      - 极简主义
     
@@ -327,7 +327,7 @@
 
 
  - www.socwall
-     - 可用性-是；
+     - 可用性-否；
      - https://www.socwall.com/
      - 风景壁纸
     
@@ -399,7 +399,7 @@
 
 
  - PicJumbo
-     - 可用性-是；
+     - 可用性-否；
      - https://picjumbo.com/
      - 每天更新，免费使用
     
@@ -463,7 +463,7 @@
 
 
  - 管理资源吧
-     - 可用性-否；
+     - 可用性-是；
      - https://www.glzy8.com/list/1/
      - 网站非常良心，整理ppt质量也不错
      - 里面精品和普通分类，精品质量确实也不错
@@ -669,7 +669,7 @@
 
 
  - wox启动器
-     - 可用性-否；
+     - 可用性-是；
      - http://www.wox.one/
      - windows启动器，可以快速启动软件
     
@@ -948,7 +948,7 @@
 
 
  - Scribus
-     - 可用性-是；
+     - 可用性-否；
      - https://www.scribus.net
      - 完全免费的、开源的PDF编辑器
     
@@ -963,13 +963,55 @@
 
 
  - XpdfReader
-     - 可用性-否；
+     - 可用性-是；
      - https://www.xpdfreader.com
      - 支持表单填充、图像处理、注释等功能
      - 完全免费
     
 
-### 趣学
+### 学习资源
+
+
+ - 古诗文网
+     - 可用性-是；
+     - https://www.gushiwen.cn/
+     - 海量诗词古文资源，从先秦到近代，配有注释译文和名家赏析
+    
+
+
+ - 故宫博物院
+     - 可用性-是；
+     - https://www.dpm.org.cn/
+     - 数字文物库，全景故宫虚拟漫游，超高分辨率名画欣赏
+    
+
+
+ - 国家图书馆
+     - 可用性-是；
+     - https://www.nlc.cn/
+     - 微信服务号10万+电子书免费看，无广告纯净阅读体验
+    
+
+
+ - 国家中小学智慧教育平台
+     - 可用性-是；
+     - https://basic.smartedu.cn
+     - 官方学科教材必备资源网站，中小学教育权威平台
+    
+
+
+ - 汉典
+     - 可用性-是；
+     - https://www.zdic.net/
+     - 汉字演变查询，权威释义引经据典，深度关联成语诗词
+    
+
+
+ - 教材刺客
+     - 可用性-否；
+     - https://github.com/TapXWorld/ChinaTextbook
+     - 小学到大学教材资源统一汇总，省去查找时间
+    
 
 
  - 句乐部
@@ -980,10 +1022,59 @@
     
 
 
- - 摸鱼背单词
+ - 开发军火库
+     - 可用性-否；
+     - https://github.com/sindresorhus/awesome
+     - 36.6万星标编程设计效率神器库，收录顶尖开发工具
+    
+
+
+ - 每日故宫
      - 可用性-是；
+     - https://www.dpm.org.cn/
+     - 一日一赏故宫藏品，碎片时间学习历史文化
+    
+
+
+ - 摸鱼背单词
+     - 可用性-否；
      - https://github.com/Uahh/ToastFish
      - 上班、上课等恶劣环境下安全隐蔽地背单词
+    
+
+
+ - 人工智能
+     - 可用性-否；
+     - https://github.com/microsoft/AI-For-Beginners
+     - 微软12周AI入门课程，涵盖TensorFlow和PyTorch工具
+    
+
+
+ - 网易蜗牛读书
+     - 可用性-是；
+     - https://du.163.com/
+     - 海量高质量历史书籍，每天免费畅读一小时，专业领读人推荐
+    
+
+
+ - 西窗烛
+     - 可用性-否；
+     - https://www.xichuangzhu.com/
+     - 每日推荐诗词，按节气时令分类，精美壁纸配解读
+    
+
+
+ - 中国哲学书电子化计划
+     - 可用性-是；
+     - https://ctext.org/instructions/library/zhs
+     - 先秦诸子百家专业资源库，中英双语，强大搜索功能
+    
+
+
+ - AI智能体
+     - 可用性-否；
+     - https://github.com/microsoft/ai-agents-for-beginners
+     - 微软11节课AI智能体教程，从基础到实践的完整课程
     
 
 
@@ -1000,6 +1091,13 @@
      - https://habitica.com/
      - https://github.com/HabitRPG/habitica
      - 完成一个待办，会获得相应的经验和金币
+    
+
+
+ - IoT物联网
+     - 可用性-是；
+     - https://github.com/microsoft/IoT-For-Beginners
+     - 微软官方12周IoT基础课程，包含测验作业和解决方案
     
 
 
@@ -1030,7 +1128,7 @@
 
 
  - 腾讯柠檬清理
-     - 可用性-是；
+     - 可用性-否；
      - https://github.com/Tencent/lemon-cleaner
      - https://lemon.qq.com/
      - Mac清理软件，符合国内用户习惯，
@@ -1038,7 +1136,7 @@
 
 
  - BleachBit
-     - 可用性-是；
+     - 可用性-否；
      - https://www.bleachbit.org/
      - https://github.com/bleachbit/bleachbit
      - 它专为 Linux 和 Windows 设计
@@ -1046,7 +1144,7 @@
 
 
  - Bulk Crap Uninstaller
-     - 可用性-是；
+     - 可用性-否；
      - https://github.com/Klocman/Bulk-Crap-Uninstaller
      - 支持便携版，不用安装，仅Windows，用来卸载软件
     
@@ -1060,7 +1158,7 @@
 
 
  - Czkawka/Krokiet
-     - 可用性-是；
+     - 可用性-否；
      - https://github.com/qarmin/czkawka
      - https://github.com/qarmin/czkawka/releases/tag/9.0.0
      - 支持Mac/Linux/Windows多个平台
@@ -1077,14 +1175,14 @@
 
 
  - glarysoft
-     - 可用性-是；
+     - 可用性-否；
      - https://www.glarysoft.com/
      - 官方说排名第一的免费、一体化的脑清理
     
 
 
  - Pearcleaner
-     - 可用性-是；
+     - 可用性-否；
      - https://github.com/alienator88/Pearcleaner
      - 免费开源的 Mac 清理工具
     
@@ -1162,7 +1260,7 @@
 
 
  - Rainy Mood
-     - 可用性-是；
+     - 可用性-否；
      - https://www.rainymood.com/
      - 网站只有一个雷雨声播放，APP还能加上其他声音
     
@@ -1194,7 +1292,7 @@
 
 
  - 八零电子书
-     - 可用性-否；
+     - 可用性-是；
      - http://www.ebook80.com/
      - 需要关注公众号
     
@@ -1335,7 +1433,7 @@
 
 
  - Z-library
-     - 可用性-是；
+     - 可用性-否；
      - https://github.com/runningcheese/Awesome-Zlibrary?tab=readme-ov-file
      - 超大，超全，但经常被封
      - 需要学会使用
@@ -1465,7 +1563,7 @@
 
 
  - MyFreeMP3
-     - 可用性-是；
+     - 可用性-否；
      - https://tools.liumingye.cn/music/#/
     
 
@@ -1485,14 +1583,14 @@
 
 
  - LX Music
-     - 可用性-是；
+     - 可用性-否；
      - https://github.com/pdone/lx-music-source
      - 音源：https://github.com/pdone/lx-music-source
     
 
 
  - MusicFree
-     - 可用性-否；
+     - 可用性-是；
      - https://musicfree.catcat.work/
      - 音源：https://yinghezhinan.com/musicfree-chajian/
     
@@ -1551,6 +1649,6 @@
 
 
  - 导航
-     - 可用性-是；
+     - 可用性-否；
      - https://github.com/justalong/navjson/blob/main/docs/res.md
     

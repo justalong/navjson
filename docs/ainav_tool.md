@@ -72,7 +72,7 @@
 
 
  - AISEO
-     - 可用性-是；月访问-313.9万
+     - 可用性-否；月访问-313.9万
      - https://aiseo.ai/
      - AI创作SEO/文案/文章/营销/博士/学生
     
@@ -1352,7 +1352,7 @@
 
 
  - Fliki
-     - 可用性-是；月访问-191.4万
+     - 可用性-否；月访问-191.4万
      - https://fliki.ai/
      - 文字转视频并配音
     
@@ -2604,7 +2604,7 @@
 
 
  - Saylo
-     - 可用性-是；月访问-26.8万
+     - 可用性-否；月访问-26.8万
      - https://www.sayloai.com/
      - AI故事角色扮演游戏
     
@@ -2744,7 +2744,7 @@
 
 
  - Open Assistant
-     - 可用性-否；月访问-0
+     - 可用性-是；月访问-0
      - https://projects.laion.ai/Open-Assistant/
      - 免费开源对话式AI
     
@@ -2872,7 +2872,7 @@
 
 
  - LALAL.AI
-     - 可用性-否；月访问-244.3万
+     - 可用性-是；月访问-244.3万
      - https://www.lalal.ai
      - AI人声乐器分离提取
     
@@ -2949,7 +2949,7 @@
 
 
  - RESEMBLE.AI
-     - 可用性-是；月访问-65.8万
+     - 可用性-否；月访问-65.8万
      - https://www.resemble.ai
      - AI人声生成工具
     
@@ -2963,7 +2963,7 @@
 
 
  - Soundraw
-     - 可用性-否；月访问-59万
+     - 可用性-是；月访问-59万
      - https://soundraw.io
      - AI音乐生成工具
     
@@ -2991,7 +2991,7 @@
 
 
  - Uberduck
-     - 可用性-是；月访问-38.9万
+     - 可用性-否；月访问-38.9万
      - https://uberduck.ai/
      - 开源AI语音生成/5000种声音
     
@@ -3005,14 +3005,14 @@
 
 
  - Mubert
-     - 可用性-是；月访问-33.3万
+     - 可用性-否；月访问-33.3万
      - https://mubert.com
      - AI BGM背景音乐生成
     
 
 
  - Wondercraft
-     - 可用性-否；月访问-31.6万
+     - 可用性-是；月访问-31.6万
      - https://www.wondercraft.ai/
      - AI音频内容生成/创建播客
     
@@ -3033,7 +3033,7 @@
 
 
  - Boomy
-     - 可用性-否；月访问-28.1万
+     - 可用性-是；月访问-28.1万
      - https://boomy.com
      - AI快速生成原创音乐平台
     
@@ -3047,7 +3047,7 @@
 
 
  - Sonauto
-     - 可用性-是；月访问-18.4万
+     - 可用性-否；月访问-18.4万
      - https://sonauto.ai/
      - 免费AI音乐生成歌曲创作
     
@@ -3257,7 +3257,7 @@
 
 
  - Lemonaid
-     - 可用性-是；月访问-0
+     - 可用性-否；月访问-0
      - https://lemonaid.ai/
      - AI音乐生成工具
     
@@ -3271,7 +3271,7 @@
 
 
  - OptimizerAI
-     - 可用性-是；月访问-NaN
+     - 可用性-否；月访问-NaN
      - https://optimizer.ai/
      - AI声音效果生成工具
     
@@ -3287,7 +3287,7 @@
 
 
  - AISEO
-     - 可用性-是；月访问-313.9万
+     - 可用性-否；月访问-313.9万
      - https://aiseo.ai/tools/ai-content-detector.html
      - AISEO AI内容检测器
     
@@ -3322,7 +3322,7 @@
 
 
  - AI Content Detector
-     - 可用性-否；月访问-74.8万
+     - 可用性-是；月访问-74.8万
      - https://writer.com/ai-content-detector
      - Writer AI内容检测工具
     
@@ -3336,14 +3336,14 @@
 
 
  - Winston AI
-     - 可用性-是；月访问-70.8万
+     - 可用性-否；月访问-70.8万
      - https://gowinston.ai
      - 强大的AI内容检测解决方案
     
 
 
  - StudyCorgi
-     - 可用性-是；月访问-23.2万
+     - 可用性-否；月访问-23.2万
      - https://studycorgi.com/free-writing-tools/chat-gpt-detector
      - 免费的检测论文是否由ChatGPT生成的工具
     
@@ -3430,7 +3430,7 @@
 
 
  - PromptBase
-     - 可用性-否；月访问-56.7万
+     - 可用性-是；月访问-56.7万
      - https://promptbase.com
     
 
@@ -3474,7 +3474,7 @@
 
 
  - AI Prompt Generator
-     - 可用性-是；月访问-7.7千
+     - 可用性-否；月访问-7.7千
      - https://www.aipromptgenerator.net/zh
      - AI Prompt
     
@@ -3521,7 +3521,7 @@
 
 
  - HELM
-     - 可用性-否；月访问-5.2万
+     - 可用性-是；月访问-5.2万
      - https://crfm.stanford.edu/helm/latest
      - 斯坦福大学 大模型评测体系
     
@@ -3670,7 +3670,7 @@
 
 
  - Elements of AI
-     - 可用性-是；月访问-51.7万
+     - 可用性-否；月访问-51.7万
      - https://www.elementsofai.com
      - 免费在线AI通识学习
     
@@ -3884,7 +3884,7 @@
 
 
  - PyTorch
-     - 可用性-否；月访问-227.4万
+     - 可用性-是；月访问-227.4万
      - https://pytorch.org
      - 开源机器学习框架
     
@@ -4143,7 +4143,7 @@
 
 
  - Leap
-     - 可用性-是；月访问-4.5万
+     - 可用性-否；月访问-4.5万
      - https://www.tryleap.ai/
      - AI快速集成到应用
     
@@ -4164,7 +4164,7 @@
 
 
  - DeepSpeed
-     - 可用性-否；月访问-4.4万
+     - 可用性-是；月访问-4.4万
      - https://www.deepspeed.ai
      - 微软开源ChatGPT模型训练
     
@@ -4593,7 +4593,7 @@
 
 
  - Genie
-     - 可用性-是；月访问-15万
+     - 可用性-否；月访问-15万
      - https://usegenie.ai/
      - Cosine AI编程助手
     
@@ -4740,7 +4740,7 @@
 
 
  - AI Code Reviewer
-     - 可用性-是；月访问-0
+     - 可用性-否；月访问-0
      - https://ai-code-reviewer.com
      - AI代码检查
     
