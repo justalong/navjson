@@ -3,6 +3,13 @@
 
 Github Page静态网站：主要维护教程：https://justalong.github.io/
 
+## 项目分析
+[AIPrompt文件夹](./AIPrompt/) - 包含完整的代码库分析报告和AI Prompt应用建议
+- 技术架构深度分析
+- 数据结构和处理流程
+- AI应用场景和Prompt模板
+- 项目价值评估和发展建议
+
 ## 感谢扫描关注
 
 - 内容导航持续更新，小程序也维护完整导航，方便手机使用，
